@@ -22,7 +22,6 @@
     <link rel="preconnect" href="https://fonts.googleapis.com/">
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;500&amp;family=Montserrat:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/odometer.js/0.4.8/themes/odometer-theme-default.min.css" />
     <link rel="stylesheet" href="https://cdn.flaticon.com/path-to-your-flaticon-stylesheet.css">
 
     <!-- BASE CSS -->
@@ -31,7 +30,7 @@
     <link href="css/vendors.min.css" rel="stylesheet">
     <link href="css/day_menu.css" rel="stylesheet">
     <link href="css/flex_slider.css" rel="stylesheet">
-    <link href="css/custom-icons/fonts/Brush Heats_personal use.ttf" rel="stylesheet">
+    <!-- <link href="css/custom-icons/fonts/Brush Heats_personal use.ttf" rel="stylesheet"> -->
     <!-- YOUR CUSTOM CSS -->
     <link href="css/custom.css" rel="stylesheet">
 
@@ -267,15 +266,7 @@
                         </ul>
                     </li>
                     <li><a href="packages.php">Our Packages</a>
-                        <!-- <ul class="level-2">
-                            <li class="back"><a href="#0">Back</a></li>
-                            <li><a href="getaway_package.php">Getaway Packages</a></li>
-                            <li><a href="event_management.php">Events Management</a></li>
-                            <li><a href="wedding_planner.php">Wedding Planner</a></li>
-                            <li><a href="international_packages.php">International Packages</a></li>
-                            <li><a href="domestic_package.php">Domestic Packages</a></li>
-                            
-                        </ul> -->
+                        
                     </li>
                     <li><a href="contacts.php">Contact us</a></li>
 

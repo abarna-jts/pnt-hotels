@@ -1,13 +1,6 @@
 <?php include("header.php") ?>
 <style>
-    /* @media (max-width: 1399px) and (min-width: 1022px) {
-        .parallax_wrapper .img_over img {
-        width: 37%;
-    }
-    .parallax_wrapper .img-fluid {
-        max-width: 67%;
-    }
-} */
+    
  a:hover{
     text-decoration: none;
  }
@@ -78,7 +71,7 @@
                 <div class="col-lg-5">
                     <div class="parallax_wrapper">
                             <img src="img/photos/abt-1.png" alt="" class="img-fluid rounded-img">
-                            <div data-cue="slideInUp" class="img_over"><span data-jarallax-element="-30"><img src="img/photos/abt-2.png" alt="" class="rounded-img"></span></div>
+                            <div data-cue="slideInUp" class="img_over"><span data-jarallax-element="-30"><img src="img/photos/abt_2.png" alt="" class="rounded-img"></span></div>
                         </div>
                     
                 </div>
@@ -86,7 +79,7 @@
                 <div class="col-lg-5">
                     <div class="intro">
                         <div class="title">
-                            <small>Amenities </small>
+                            <!-- <small>Amenities </small> -->
                             <h2>PnT Hotels & Resorts</h2>
                         </div>
                         <p style="color: #000;">Select the resort that best fits your preferences.</p>
@@ -98,15 +91,12 @@
                         <p style="color: #000;">Our dedicated team is here to help you create unforgettable memories tailored to your interests, whether you're planning a romantic getaway, 
                             a family vacation, or a corporate retreat. At PnT Hotels, we believe every moment matters, and we are committed to making your stay seamless 
                             and extraordinary.</p>
-                        <!-- <p><em>Enjoy Your Stay...</em></p>
-                        <p>Mr Murugesh<br>Chairman of PnT Hotels</p> -->
+                        
                         <div class="about-end">
                             <div class="left">
                                 <p><em>Enjoy Your Stay...</em></p>
                             </div>
-                            <!-- <div class="right">
-                                <p>Mr Murugesh<br>Chairman of PnT Hotels</p>
-                            </div> -->
+                            
                         </div>
                         
                     </div>
@@ -122,8 +112,7 @@
         <div class="pinned-image__container" id="section_video">
             <video loop="loop" muted="muted" id="video_home">
                 <source src="video/video1.mp4" type="video/mp4">
-                <!-- <source src="video/swimming_pool_2.webm" type="video/webm">
-                        <source src="video/swimming_pool_2.ogv" type="video/ogg"> -->
+               
             </video>
             <div class="pinned-image__container-overlay"></div>
         </div>
@@ -136,54 +125,6 @@
     </div>
     <!-- /Pattern  -->
 
-    <!-- <div class="container add_top_60">
-            <div class="title mb-3">
-                <small data-cue="slideInUp">Packages & Services</small>
-                <h2 data-cue="slideInUp" data-delay="200">Offerings</h2>
-            </div>
-            <div class="row justify-content-center add_bottom_60" data-cues="slideInUp" data-delay="300">
-                <div class="col-xl-6 col-lg-12 col-md-12 col-sm-12 packages first-package">
-                    <a href="tel:09535529535" class="box_cat_rooms">
-                        <figure>
-                            <div class="background-image" data-background="url(img/photos/package-1.jpg)"></div>
-                            <div class="info">
-                                <h3>Getaway Packages</h3>
-                                <small>★★★★★</small>
-                                <p style="color:#fff;">A curated vacation package that makes your holidays special.</p>
-                                <span>Enquiry Now</span>
-                            </div>
-                        </figure>
-                    </a>
-                </div>
-                <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6 packages">
-                    <a href="tel:09535529535" class="box_cat_rooms">
-                        <figure>
-                            <div class="background-image" data-background="url(img/photos/package-2.jpg)"></div>
-                            <div class="info">
-                                <h3>Events Management</h3>
-                                <small>★★★★★</small>
-                                <p style="color:#fff;">We deliver an end-to-end event solution with the utmost professionalism & care.</p>
-                                <span>Enquiry Now</span>
-                            </div>
-                        </figure>
-                    </a>
-                </div>
-                <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6 packages">
-                    <a href="tel:09535529535" class="box_cat_rooms">
-                        <figure>
-                            <div class="background-image" data-background="url(img/photos/package-3.png)"></div>
-                            <div class="info">
-                                <h3>Wedding Planner</h3>
-                                <small>★★★★★</small>
-                                <p style="color:#fff;">The one-stop solution for everything you need to plan the perfect wedding ceremony.</p>
-                                <span>Enquiry Now</span>
-                            </div>
-                        </figure>
-                    </a>
-                </div>    
-            </div>
-        </div> -->
-    <!-- /container-->
 
     <!-- <div class="bg_white"> -->
         <div class="container add_bottom_60 add-top-60">
@@ -255,43 +196,7 @@
         </div>
         <!--/container -->
     <!-- </div> -->
-    <!-- <div class="container add-top-60 facilities">
-        <div class="title text-center mb-5">
-            <small data-cue="slideInUp" data-show="true" style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 0ms; animation-direction: normal; animation-fill-mode: both;">Our Facilities</small>
-            <h2 data-cue="slideInUp" data-delay="100" data-show="true" style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 100ms; animation-direction: normal; animation-fill-mode: both;">PnT Hotel</h2>
-        </div>
-
-        <div class="row Facilities_section">
-            <div class="col-xl-3 col-md-6">
-                <div class="counter box_facilities no-border" data-cue="slideInUp">
-                    <i class="customicon-cocktail"></i>
-                    <h4 class="odometer" id="odometer3">0</h4>
-                    <p>Hotels</p>
-                </div>
-            </div>
-            <div class="col-xl-3 col-md-6">
-                <div class="counter box_facilities" data-cue="slideInUp">
-                    <i class="customicon-swimming-pool"></i>
-                    <h4 class="odometer" id="odometer2">0</h4>
-                    <p>Holidays</p>
-                </div>
-            </div>
-            <div class="col-xl-3 col-md-6">
-                <div class="counter box_facilities " data-cue="slideInUp">
-                    <i class="customicon-global"></i>
-                    <h4 class="odometer" id="odometer1" style="margin-top: 10px;">0</h4>
-                    <p>Tours</p>
-                </div>
-            </div>
-            <div class="col-xl-3 col-md-6">
-                <div class="counter box_facilities" data-cue="slideInUp">
-                    <i class="customicon-private-parking"></i>
-                    <h4 class="odometer" id="odometer4">0</h4>
-                    <p>Cars</p>
-                </div>
-            </div>
-        </div>
-    </div> -->
+    
 
     <!-- <div class="bg_white"> -->
         <div class="container add-top-60" style="text-align:center;">
@@ -319,11 +224,7 @@
                             <img src="img/photos/package-6.png" class="package-img" />
                         </div>
                     </a>
-                    <!-- <a href="packages.php#relaxation_retreats">
-                        <div class="package-class">
-                            <img src="img/photos/package-10.png" class="package-img" />
-                        </div>
-                    </a> -->
+                    
                     <a href="packages.php#spa_sanctuaries">
                         <div class="package-class">
                             <img src="img/photos/package-7.png" class="package-img" />
@@ -363,73 +264,7 @@
     <!-- </div> -->
     <!-- /marquee-->
 
-    <!-- <div class="bg_white">
-        <div class="container add_top_60 add_bottom_60">
-            <div class="title mb-3">
-                <small data-cue="slideInUp" data-show="true" style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 0ms; animation-direction: normal; animation-fill-mode: both;text-align: center; ">Top Rated</small>
-                <h2 data-cue="slideInUp" data-delay="200" data-show="true" style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 200ms; animation-direction: normal; animation-fill-mode: both;text-align: center;     margin-bottom: 35px;">Hotels &amp; Resort</h2>
-            </div>
-            <div class="row justify-content-between d-flex align-items-center add_bottom_90">
-                <div class="col-lg-5">
-                    <div class="pinned-image rounded_container pinned-image--small mb-4">
-                        <div class="pinned-image__container">
-                            <img src="img/photos/hotel-1.png" alt="">
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="title">
-                        <small>Top rated</small>
-                        <h3>Mookanana Resort & Spa</h3>
-                        <small>★★★★★</small>
-                        <p style="color:#000;    margin-bottom: 10px;">Lush Green Jungle Resort near Coorg, Western Ghats, Karnataka.</p>
-                        <div class="recom-price"><span class="font-4">₹Amount - Contact us</span></div>
-                        <div class="row">
-                            <div class="col-md-6">
-                                <p><a href="#bookingModal" class="btn_1 mt-1 outline" data-toggle="modal">Book Now</a></p>
-                            </div>
-                            <div class="col-md-6">
-                                <p><a href="mookana_hotel.php" class="btn_1 mt-1 outline">Read More</a></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row justify-content-between d-flex align-items-center">
-
-                <div class="col-lg-5 order-lg-2">
-                    <div class="pinned-image rounded_container pinned-image--small mb-4">
-                        <div class="pinned-image__container">
-                            <img src="img/photos/hotel-2.png" alt="">
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 order-lg-1">
-                    <div class="title">
-                        <small>Top rated</small>
-                        <h3>Club Oxygen Resorts</h3>
-                        <small>★★★★★</small>
-                        <p style="color:#000;    margin-bottom: 10px;">Chemmanur International Holidays and Resorts Limited.</p>
-                        <div class="row">
-                            <div class="col-md-6">
-                                <div class="recom-price"><span class="font-4">₹Amount - Contact us</span></div>
-                            </div>
-                            <div class="col-md-6 read-btn">
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-6">
-                                <p><a href="#bookingModal" class="btn_1 mt-1 outline" data-toggle="modal">Book Now</a></p>
-                            </div>
-                            <div class="col-md-6">
-                                <p><a href="club_oxygen_resort.php" class="btn_1 mt-1 outline">Read More</a></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
+    
     
     <!-- /bg_white -->
 
@@ -779,109 +614,7 @@
     </div>
 
     </script>
-    <!-- <div class="modal fade" id="availabilitybooking" tabindex="-1" role="dialog" aria-labelledby="bookingModalLabel" aria-hidden="true">
-  <div class="modal-dialog " role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="bookingModalLabel">Book Your Stay</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <form action="available_mail.php" method="POST" id="bookingForm">
-          
-          <div class="row">
-            <div class="col-md-6">
-                <label for="name"><span>Name <span class="required-star">*</span></span></label>
-                <input type="text" id="name" name="name" required>
-            </div>
-            <div class="col-md-6">
-                <label for="mail"><span>Email Id<span class="required-star">*</span></span></label>
-                <input type="email" id="mail" name="mail" required>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-md-6">
-                <label for="phone"><span>Phone Number <span class="required-star">*</span></span></label>
-                <input type="phone" id="phone" name="phone" required>
-            </div>
-            <div class="col-md-6">
-                <label for="address"><span>Address<span class="required-star">*</span></span></label>
-                <input type="address" id="address" name="address" required>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-md-6">
-                <label for="name"><span>Check In <span class="required-star">*</span></span></label>
-                <input type="date" id="check_in" name="check_in" required>
-            </div>
-            <div class="col-md-6">
-                <label for="mail"><span>Check Out<span class="required-star">*</span></span></label>
-                <input type="date" id="check_out" name="check_out" required>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-md-6">
-                <label for="name"><span>Hotel Name <span class="required-star">*</span></span></label>
-                <select id="hotel" name="hotel" required onchange="updateRoomOptions()" >
-                    <option value="">-- Select Hotel --</option>
-                    <option value="Mookanana_Resort_and_Spa">Mookanana Resort & Spa</option>
-                    <option value="Club_Oxygen_Resorts">Club Oxygen Resorts</option>
-                </select>
-            </div>
-            <div class="col-md-6">
-                <label for="name"><span>Select Room <span class="required-star">*</span></span></label>
-                <select id="room" name="room" required>
-                    <option value="">-- Select a Room --</option>
-                    
-                </select>
-            </div>
-          </div>
-            <div class="row">
-                <div class="col-md-6">
-                    <label for="adult">Adults</label>
-                    <input type="" name="adult" id="adult" />
-                </div>
-                <div class="col-md-6">
-                    <label for="child">Child</label>
-                    <input type="" name="child" id="child" />
-                </div>
-            </div>
-          <div class="row msg_row">
-            <div class="col-md-12">
-                <label for="msg"><span>Message</span></label>
-                <textarea rows="4" cols="50" id="msg" name="msg" required></textarea>
-            </div>
-          </div>
-          <div class="submit-btn">
-            <input type="Submit" value="Submit" id="submit">
-          </div>
-              
-        </form>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="modal fade" id="successModal2" tabindex="-1" role="dialog" aria-labelledby="successModalLabel" aria-hidden="true">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content success-content">
-            <div class="modal-header">
-                <h5 class="modal-title" id="successModalLabel">Success</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
-            </div>
-            <div class="modal-body">
-                Your message has been sent successfully. We will get back to you soon.
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary close-btn" data-dismiss="modal">Close</button>
-            </div>
-        </div>
-    </div>
-</div> -->
+    
 
 </main>
 
@@ -913,7 +646,7 @@
 <script src="js/common_functions.js"></script>
 <script src="js/datepicker_search.js"></script>
 <script src="js/datepicker_inline.js"></script>
-<script src="phpmailer/validate.js"></script>
+<!-- <script src="phpmailer/validate.js"></script> -->
 <script>
     $(document).ready(function() {
         $('.packages').not('.first-package').hover(
@@ -938,58 +671,7 @@
         );
     });
 </script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/odometer.js/0.4.8/odometer.min.js"></script>
-<script>
-    // Initialize the counters
-    let totalViews1 = 0;
-    let totalViews2 = 0;
-    let totalViews3 = 0;
-    let totalViews4 = 0;
 
-    // Set the target numbers to stop the counters
-    const targetNumber1 = 345;
-    const targetNumber2 = 438;
-    const targetNumber3 = 5;
-    const targetNumber4 = 675;
-
-    // Function to simulate fetching new views for each counter
-    function updateCounter(counterId, totalViews, targetNumber) {
-        // Calculate the difference from the target number
-        let difference = targetNumber - totalViews;
-
-        // Determine the increment
-        let increment = Math.min(Math.floor(Math.random() * 10) + 1, difference); // Ensure increment doesn't exceed the target
-
-        // Update the total views
-        totalViews += increment;
-
-        // Update the odometer value
-        document.getElementById(counterId).innerHTML = totalViews;
-
-        // Stop the counter when it reaches the target number
-        if (totalViews >= targetNumber) {
-            clearInterval(counterIntervals[counterId]); // Stop the interval
-        }
-
-        return totalViews; // Return updated views
-    }
-
-    // Start the counters with setInterval
-    const counterIntervals = {
-        'odometer1': setInterval(() => {
-            totalViews1 = updateCounter('odometer1', totalViews1, targetNumber1);
-        }, 70),
-        'odometer2': setInterval(() => {
-            totalViews2 = updateCounter('odometer2', totalViews2, targetNumber2);
-        }, 70),
-        'odometer3': setInterval(() => {
-            totalViews3 = updateCounter('odometer3', totalViews3, targetNumber3);
-        }, 70),
-        'odometer4': setInterval(() => {
-            totalViews4 = updateCounter('odometer4', totalViews4, targetNumber4);
-        }, 70)
-    };
-</script>
 
 <script>
     let itemsPerPage = 3; // Default for larger screens

@@ -42,57 +42,7 @@
         </div>
         <div class="row">
 
-            <!-- <div class="image-content-row">
-                <div class="image-section">
-                    <img src="img/photos/deluxe_room.png" alt="Advaya Luxury Resort" class="img-fluid" />
-                </div>
-                <div class="content-section">
-                    <div class="box_item_info">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <small>Rent : Contact Us</small>
-                                <h2>Deluxe Room</h2>
-                                <h6 style="color:#124888;">Options</h6>
-                                <ul>
-                                    <li>Breakfast Included</li>
-                                    <li>Free Parking</li>
-                                    <li>Sports Facilities</li>
-                                </ul>
-                                
-                            </div>
-                            <div class="col-md-6">
-                            <div class="guest-info">
-                                <div class="left-side">
-                                    <i class="bi bi-person"></i>
-                                    <span>Maximum:</span>
-                                </div>
-                                <div class="right-side">
-                                    <p>2 Guests</p>
-                                </div>
-                            </div>
-                            <div class="guest-info">
-                                <div class="left-side">
-                                    <i class="bi bi-person"></i>
-                                    <span>Room Size:</span>
-                                </div>
-                                <div class="right-side">
-                                    <p>250 sqt</p>
-                                </div>
-                            </div>
-                                <div class="box_item_footer d-flex align-items-center justify-content-between">
-                                    <a href="#0" class="btn_4 learn-more">
-                                        <span class="circle">
-                                            <span class="icon arrow"></span>
-                                        </span> 
-                                        <span class="button-text" href="#bookingModal" data-toggle="modal">Book Now</span>
-                                    </a>
-                                    
-                                </div>
-                            </div>
-                        </div>                           
-                    </div>
-                </div>
-            </div> -->
+            
 
             <div class="row_list_version_2" id="club_room">
                 <div class="row g-0 align-items-center justify-content-center" id="deluxe">
@@ -311,13 +261,13 @@
                             <div class="owl-stage-outer">
                                 <div class="owl-stage">
                                     <div class="owl-item active center">
-                                        <div class="item"><img src="img/photos/advaya-4.webp" alt=""></div>
+                                        <div class="item"><img src="img/photos/village_room.png" alt=""></div>
                                     </div>
                                     <div class="owl-item">
                                         <div class="item"><img src="img/photos/village-room-2.webp" alt=""></div>
                                     </div>
                                     <div class="owl-item">
-                                        <div class="item"><img src="img/photos/village-room-3.webp" alt=""></div>
+                                        <div class="item"><img src="img/photos/advaya-4.webp" alt=""></div>
                                     </div>
                                 </div>
                             </div>
@@ -396,7 +346,6 @@
 <script src="js/common_scripts.js"></script>
 <script src="js/common_functions.js"></script>
 <script src="js/datepicker_inline.js"></script>
-<script src="phpmailer/validate.js"></script>
 
 </body>
 

@@ -41,16 +41,7 @@
                                 <li>Free Parking</li>
                                 <li>Sports Facilities</li>
                             </ul>
-                            <!-- <div class="facilities clearfix">
-                                <ul>
-                                    <li>
-                                        <i class="customicon-double-bed"></i> King Size Bed
-                                    </li>
-                                    <li>
-                                        <i class="customicon-television"></i> 32 Inc TV
-                                    </li>
-                                </ul>
-                            </div> -->
+                            
                             <h6>Maximum</h6><p>2 Guests</p>
                             <h6>(Size sqt)</h6>
                             <div class="box_item_footer d-flex align-items-center justify-content-between">
@@ -60,9 +51,7 @@
                                     </span>
                                     <span class="button-text" href="#bookingModal" data-toggle="modal">Book Now</span>
                                 </a>
-                                <!-- <a href="room-details.html" class="animated_link">
-                                    <strong>Details</strong>
-                                </a> -->
+                               
                             </div>
                             <!-- /box_item_footer -->
                         </div>
@@ -403,7 +392,6 @@
 <script src="js/common_scripts.js"></script>
 <script src="js/common_functions.js"></script>
 <script src="js/datepicker_inline.js"></script>
-<script src="phpmailer/validate.js"></script>
 
 </body>
 

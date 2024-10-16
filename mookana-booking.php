@@ -21,109 +21,6 @@
 </style>
 
 
-<div class="header-modal">
-    <div class="modal fade" tabindex="-1" id="bookingRoom" role="dialog" aria-labelledby="bookingModalLabel" aria-hidden="true">
-        <div class="modal-dialog " role="document">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="bookingModalLabel">Book Your Stay</h5>
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
-                    </button>
-                </div>
-                <div class="modal-body">
-                    <form action="send_mail.php" method="POST" id="bookingForm">
-                        <!-- <ul>
-                                <li>
-                                <label for="name"><span>Name <span class="required-star">*</span></span></label>
-                                <input type="text" id="name" name="name" required>
-                                </li>
-                                <li>
-                                <label for="mail"><span>Email Id<span class="required-star">*</span></span></label>
-                                <input type="email" id="mail" name="mail" required>
-                                </li>
-                                <li>
-                                <label for="phone"><span>Phone Number <span class="required-star">*</span></span></label>
-                                <input type="phone" id="phone" name="phone" required>
-                                </li>
-                                <li>
-                                <label for="address"><span>Address<span class="required-star">*</span></span></label>
-                                <input type="address" id="address" name="address" required>
-                                </li>
-                                <li>
-                                <label for="msg"><span>Message</span></label>
-                                <textarea rows="4" cols="50" id="msg" name="msg" required></textarea>
-                                </li>
-                                <li>
-                                <input type="Submit" value="Submit" id="submit">
-                                </li>
-                            </ul> -->
-                        <div class="row">
-                            <div class="col-md-6">
-                                <label for="name"><span>Name <span class="required-star">*</span></span></label>
-                                <input type="text" id="name" name="name" required class="option_font">
-                            </div>
-                            <div class="col-md-6">
-                                <label for="mail"><span>Email Id<span class="required-star">*</span></span></label>
-                                <input type="email" id="mail" name="mail" required class="option_font">
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-6">
-                                <label for="phone"><span>Phone Number <span class="required-star">*</span></span></label>
-                                <input type="phone" id="phone" name="phone" required class="option_font">
-                            </div>
-                            <div class="col-md-6">
-                                <label for="address"><span>Address<span class="required-star">*</span></span></label>
-                                <input type="address" id="address" name="address" required class="option_font">
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-6 mobile_col">
-                                <label for="name"><span>Check In <span class="required-star">*</span></span></label>
-                                <input type="date" id="check_in" name="check_in" required class="option_font">
-                            </div>
-                            <div class="col-md-6 mobile_col">
-                                <label for="mail"><span>Check Out<span class="required-star">*</span></span></label>
-                                <input type="date" id="check_out" name="check_out" required class="option_font">
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-6 mobile_col">
-                                <label for="name"><span>Hotel Name <span class="required-star">*</span></span></label>
-                                <select id="hotel" name="hotel" required onchange="updateRoomOptions()" class="option_font">
-                                    <option value="" class="option_font">-- Select Hotel --</option>
-                                    <option value="Mookanana_Resort_and_Spa">Mookanana Resort & Spa</option>
-                                    <option value="Advaya_Resort">Advaya Luxury Resort</option>
-                                    <option value="Club_Oxygen_Resorts">Club Oxygen Resorts</option>
-                                    <option value="Thekady_Resort">Oxygen Resorts, Thekkady.</option>
-                                    <option value="Mojirm_Resort">Oxygen Resorts Morjim, Goa.</option>
-                                </select>
-                            </div>
-                            <div class="col-md-6 mobile_col">
-                                <label for="name"><span>Select Room <span class="required-star">*</span></span></label>
-                                <select id="room" name="room" required class="option_font">
-                                    <option value="">-- Select a Room --</option>
-
-                                </select>
-                            </div>
-                        </div>
-                        <div class="row msg_row">
-                            <div class="col-md-12">
-                                <label for="msg"><span>Message</span></label>
-                                <textarea rows="4" cols="50" id="msg" name="msg" required></textarea>
-                            </div>
-                        </div>
-                        <div class="submit-btn">
-                            <input type="Submit" value="Submit" id="submit">
-                        </div>
-
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 
 
 <main>
@@ -144,57 +41,7 @@
         </div>
         <div class="row">
 
-            <!-- <div class="image-content-row">
-                <div class="image-section">
-                    <img src="img/photos/deluxe_room.png" alt="Advaya Luxury Resort" class="img-fluid" />
-                </div>
-                <div class="content-section">
-                    <div class="box_item_info">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <small>Rent : Contact Us</small>
-                                <h2>Deluxe Room</h2>
-                                <h6 style="color:#124888;">Options</h6>
-                                <ul>
-                                    <li>Breakfast Included</li>
-                                    <li>Free Parking</li>
-                                    <li>Sports Facilities</li>
-                                </ul>
-                                
-                            </div>
-                            <div class="col-md-6">
-                            <div class="guest-info">
-                                <div class="left-side">
-                                    <i class="bi bi-person"></i>
-                                    <span>Maximum:</span>
-                                </div>
-                                <div class="right-side">
-                                    <p>2 Guests</p>
-                                </div>
-                            </div>
-                            <div class="guest-info">
-                                <div class="left-side">
-                                    <i class="bi bi-person"></i>
-                                    <span>Room Size:</span>
-                                </div>
-                                <div class="right-side">
-                                    <p>250 sqt</p>
-                                </div>
-                            </div>
-                                <div class="box_item_footer d-flex align-items-center justify-content-between">
-                                    <a href="#0" class="btn_4 learn-more">
-                                        <span class="circle">
-                                            <span class="icon arrow"></span>
-                                        </span> 
-                                        <span class="button-text" href="#bookingModal" data-toggle="modal">Book Now</span>
-                                    </a>
-                                    
-                                </div>
-                            </div>
-                        </div>                           
-                    </div>
-                </div>
-            </div> -->
+            
 
             <div class="row_list_version_2" id="deluxe_room">
                 <div class="row g-0 align-items-center justify-content-center" id="deluxe">
@@ -406,57 +253,7 @@
 
             </div>
 
-            <!-- <div class="row_list_version_2 inverted" id="double_bed">
-                <div class="row g-0 align-items-center justify-content-center" id="deluxe">
-
-
-                    <div class="col-xl-6 order-xl-2">
-                        <div class="item">
-                            <a data-fslightbox="gallery_1" data-type="image" href="img/photos/double_bed.png">
-                                <img src="img/photos/double_bed.png" alt="" class="img-fluid book-room"></a>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-4">
-                        <div class="box_item_info">
-                            <small>Rent : Contact Us</small>
-                            <h2>Double Bed Room Villa</h2>
-
-                            <div class="guest-info">
-                                <div class="left-side">
-                                    <i class="bi bi-person"></i>
-                                    <span>Maximum:</span>
-                                </div>
-                                <div class="right-side">
-                                    <p>6 Guests</p>
-                                </div>
-                            </div>
-                            <div class="guest-info">
-                                <div class="left-side">
-                                    <i class="bi bi-person"></i>
-                                    <span>Room Size:</span>
-                                </div>
-                                <div class="right-side">
-                                    <p>950 sqt</p>
-                                </div>
-                            </div>
-                            <div class="box_item_footer d-flex align-items-center justify-content-between">
-                                <a href="#0" class="btn_4 learn-more">
-                                    <span class="circle">
-                                        <span class="icon arrow"></span>
-                                    </span>
-                                    <span class="button-text" href="#bookingRoom" data-toggle="modal">Book Now</span>
-                                </a>
-
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-            </div> -->
+            
 
 
             <div class="row_list_version_2 inverted" id="private_pool">
@@ -542,7 +339,6 @@ $(document).ready(function(){
 <script src="js/common_scripts.js"></script>
 <script src="js/common_functions.js"></script>
 <script src="js/datepicker_inline.js"></script>
-<script src="phpmailer/validate.js"></script>
 
 </body>
 

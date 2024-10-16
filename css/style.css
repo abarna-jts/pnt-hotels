@@ -2320,6 +2320,19 @@ img.jarallax-img.kenburns-2 {
     display: none;
  }
 @media (max-width: 600px) {
+    footer p {
+        font-size: 13px;
+    }
+    .footer-para {
+        width: 100%;
+        text-align: justify;
+    }
+    #successModal .modal-body{
+        font-size: 13px;
+    }
+    .contact_info {
+        padding: 20px 25px !important;
+    }
     .advaya_testimonials .owl-height{
         height: 402.375px !important;
     }
@@ -2829,6 +2842,15 @@ footer .contact_page i{
     margin-right:10px;
     color:#e1c450;
 }
+.contact_page ul {
+    margin: 0 0 5px 0;
+}
+footer p{
+    color:#fff;
+}
+.footer_links ul{
+    margin:0 0 5px 0;
+}
 footer .footer_bg .background-image {
     opacity: 0.9;
     /* filter: grayscale(100%); */
@@ -3017,9 +3039,13 @@ footer .copy {
 .footer_links {
     margin-bottom: 25px
 }
+.footer-para{
+    width: 200%;
+    text-align: justify;
+}
 
 .footer_links ul {
-    line-height: 1.9
+    line-height: 1.7
 }
 
 .footer_links ul li a {
@@ -6118,7 +6144,11 @@ textarea.form-control {
 @media (max-width:1252px) and (min-width:1025px){
     footer .col-lg-2{
         flex: 0 0 31%;
-        max-width: 31%;
+        max-width: 18%;
+    }
+    .footer-para {
+        width: 212%;
+        text-align: justify;
     }
 }
 @media (max-width: 1399px) and (min-width: 1200px) {
@@ -6154,6 +6184,7 @@ textarea.form-control {
     .news_event a.box_contents p{
         text-align: justify;
         font-size: 15px;
+        height: 237px;
     }
     .wel-box h4 {
         font: 400 1.3em / 1.3em 'PT Serif', italic !important;
@@ -6379,7 +6410,7 @@ textarea.form-control {
         padding-bottom: 0px;
     }
     .mookana_section .section_2 {
-        background-image: url(img/photos/bg.jpg) !important;
+        background-image: url('img/photos/bg.jpg') !important;
         padding-left: 17px !important;
         padding-right: 17px !important;
         text-align: justify !important;
@@ -6392,7 +6423,7 @@ textarea.form-control {
 
 @media (min-width:1400px) and (max-width:1627px){
     .mookana_section .section_2 {
-        background-image: url(img/photos/bg.jpg);
+        background-image: url('img/photos/bg.jpg');
         padding-left: 30px !important;
         padding-right: 30px !important;
         text-align: justify;
@@ -6421,6 +6452,10 @@ textarea.form-control {
 }
 
 @media (min-width: 768px) and (max-width: 1024px) {
+    .footer-para {
+        width: 100%;
+        text-align: justify;
+    }
     #local_attraction .pagination__wrapper{
         display: block;
      }
@@ -6585,7 +6620,33 @@ textarea.form-control {
     }
     footer .col-lg-2 {
         flex: 0 0 31.666667%;
-        max-width: 31.666667%;
+        max-width:18.666667%;
+    }
+    .footer-para {
+        width: 210% !important;
+        text-align: justify;
+    }
+    .contact_page ul {
+        margin: 0 0 5px 0;
+        font-size: 13px;
+    }
+    .footer_links ul {
+        line-height: 1.7;
+        font-size: 13px;
+    }
+    .footer_links {
+        display: flex;
+        align-items: center;
+        margin-bottom: 25px;
+        justify-content: end;
+    }
+    footer .footer_about {
+        padding-right: calc(var(--bs-gutter-x)* 0.9);
+    }
+    .footer-qr h5{
+        display: flex;
+        align-items: center;
+        justify-content: end;
     }
 }
 @media (min-width: 1024px) and (max-width: 1200px) {
@@ -6775,7 +6836,7 @@ textarea.form-control {
  .mookana_section .col-lg-6{
     display: flex;
     align-items:center;
-    justify-self: center;
+    justify-content: center;
  }
 .know-bot li {
     list-style-type: none;

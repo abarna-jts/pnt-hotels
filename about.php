@@ -20,44 +20,7 @@
         text-align: justify;
     }
 
-    /* @media (max-width: 1399px) and (min-width: 1022px) {
-        .parallax_wrapper .img-fluid {
-            max-width: 67%;
-        }
-
-        .parallax_wrapper.inverted .img_over {
-            text-align: right;
-            left: inherit;
-            right: 0px;
-        }
-
-        .about_img {
-            justify-content: center !important;
-        }
-
-        .box_facilities i {
-            font-size: 2.875rem;
-            height: 61px;
-        }
-
-        .no-border .odometer {
-            margin-top: 0px !important;
-        }
-    } */
-
-    /* @font-face {
-            font-family: 'Hey August';
-            src: url('css/custom-icons/fonts/Hey August.ttf') format('truetype');
-            font-style: normal;
-        }
-        h1 {
-            font-family: 'Hey August', sans-serif;
-            font-weight: 200 !important;
-            letter-spacing: 3px;
-        } */
-    /* .hero .wrapper h1{
-            font-weight: 200;
-        } */
+    
 </style>
 
 <body>
@@ -68,7 +31,7 @@
             <div class="wrapper opacity-mask d-flex align-items-center justify-content-center text-center animate_hero" data-opacity-mask="rgba(0, 0, 0, 0.5)">
                 <div class="container">
                     <small class="slide-animated one">Unique Holiday Experience</small>
-                    <h1 class="slide-animated two">About PnT Hotel</h1>
+                    <h1 class="slide-animated two">About PnT Hotels</h1>
                 </div>
             </div>
         </div>
@@ -79,13 +42,13 @@
                 <div class="col-lg-5">
                     <div class="parallax_wrapper inverted">
                         <img src="img/photos/abt-1.png" alt="" class="img-fluid rounded-img">
-                        <div data-cue="slideInUp" class="img_over"><span data-jarallax-element="-30"><img src="img/photos/abt-2.png" alt="" class="rounded-img"></span></div>
+                        <div data-cue="slideInUp" class="img_over"><span data-jarallax-element="-30"><img src="img/photos/abt_2.png" alt="" class="rounded-img"></span></div>
                     </div>
                 </div>
                 <div class="col-lg-5">
                     <div class="intro">
                         <div class="title">
-                            <small>PnT Hotel</small>
+                            <small>PnT Hotels</small>
                             <h2>Our Guests</h2>
                         </div>
                         <p>Discover unlimited possibilities with our unique collection of getaways and weekend destinations. Resorts are ideally located in
@@ -110,7 +73,7 @@
                     <div class="row justify-content-between">
                         <div class="col-lg-5 fixed_title">
                             <div class="title">
-                                <small>PnT Hotel</small>
+                                <small>PnT Hotels</small>
                                 <h2>We Offering</h2>
                             </div>
                             <div class="list_ok">
@@ -165,16 +128,7 @@
 
                                 </ul>
                             </div>
-                            <!-- <div class="title">
-                            <h2>Our Team</h2>
-                          </div>
-                        <div class="list_ok">
-                            <ul>
-                            <li data-cue="slideInUp" data-delay="400">
-                                <p>We sets a benchmark for the ultimate customer travel experience. Create and empowering and inspiring environment for our members at work and in life.</p>
-                            </li>
-                            </ul>
-                        </div>          -->
+                            
                         </div>
                         <div class="col-lg-6 ">
                             <div data-cue="fadeIn" data-delay="500">
@@ -199,44 +153,6 @@
         <!-- /bg_white -->
 
 
-        <!-- <div class="container add_top_60 counter-mobile">
-            <div class="title text-center mb-5">
-                <small data-cue="slideInUp">PnT Hotel</small>
-                <h2 data-cue="slideInUp" data-delay="100">Our Facilities</h2>
-            </div>
-            <div class="row mt-4">
-                <div class="col-xl-3 col-md-6">
-                    <div class="counter box_facilities no-border" data-cue="slideInUp">
-                        <i class="customicon-swimming-pool"></i>
-                        <div class="odometer" id="odometer1" style="margin-top: 10px;">0</div>
-                        <p>Holidays</p>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-md-6">
-                    <div class="counter box_facilities" data-cue="slideInUp">
-                        <i class="customicon-private-parking"></i>
-                        <div class="odometer" id="odometer2">0</div>
-                        <p>Cars</p>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-md-6">
-                    <div class="counter box_facilities" data-cue="slideInUp">
-                        <i class="customicon-ship"></i>
-                        <div class="odometer" id="odometer3">0</div>
-                        <p>Cruises</p>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-md-6">
-                    <div class="counter box_facilities" data-cue="slideInUp">
-                        <i class="customicon-flight" style="    rotate: 315deg;"></i>
-                        <div class="odometer" id="odometer4">0</div>
-                        <p>Flights</p>
-                    </div>
-                </div>
-            </div>
-
-        </div> -->
-        <!-- /parallax_section_1-->
 
 
         <!-- /container -->
@@ -256,52 +172,7 @@
     <!-- COMMON SCRIPTS -->
     <script src="js/common_scripts.js"></script>
     <script src="js/common_functions.js"></script>
-    <script src="phpmailer/validate.js"></script>
-    <script>
-        // Initialize the counters
-        let totalViews1 = 0;
-        let totalViews2 = 0;
-        let totalViews3 = 0;
-        let totalViews4 = 0;
-
-        // Set the target numbers to stop the counters
-        const targetNumber1 = 438;
-        const targetNumber2 = 675;
-        const targetNumber3 = 169;
-        const targetNumber4 = 293;
-
-        // Function to simulate fetching new views for each counter
-        function updateCounter(counterId, totalViews, targetNumber) {
-            // Simulate view increment
-            totalViews += Math.floor(Math.random() * 10); // Increase by a random number between 1 and 10
-
-            // Update the odometer value
-            document.getElementById(counterId).innerHTML = totalViews;
-
-            // Stop the counter when it reaches the target number
-            if (totalViews >= targetNumber) {
-                clearInterval(counterIntervals[counterId]); // Stop the interval
-            }
-
-            return totalViews; // Return updated views
-        }
-
-        // Start the counters with setInterval
-        const counterIntervals = {
-            'odometer1': setInterval(() => {
-                totalViews1 = updateCounter('odometer1', totalViews1, targetNumber1);
-            }, 70),
-            'odometer2': setInterval(() => {
-                totalViews2 = updateCounter('odometer2', totalViews2, targetNumber2);
-            }, 70),
-            'odometer3': setInterval(() => {
-                totalViews3 = updateCounter('odometer3', totalViews3, targetNumber3);
-            }, 70),
-            'odometer4': setInterval(() => {
-                totalViews4 = updateCounter('odometer4', totalViews4, targetNumber4);
-            }, 70)
-        };
-    </script>
+    
 </body>
 
 <!-- Mirrored from www.ansonika.com/paradise/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 29 Aug 2024 06:31:02 GMT -->

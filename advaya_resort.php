@@ -45,11 +45,7 @@
         padding-left: 25px;
     }
 
-    /* .center-text{
-    position: absolute;
-    left: 71%;
-    top: 24%;
-} */
+   
 </style>
 <main>
 
@@ -85,14 +81,7 @@
                                     <img src="img/photos/icon_3.png" alt="">
                                 </div>
                                 <h4>Luxury Rooms</h4>
-                                <!-- <div class="overlay transition3s">
-                                    <div class="icon_position_table">
-                                        <div class="icon_container border_round">
-                                            <h2>Conference & Events </h2>
-                                            <p> </p>
-                                        </div>
-                                    </div>
-                                </div> -->
+                                
                             </a>
                         </div>
                         <div class="col-sm-3">
@@ -101,14 +90,7 @@
                                     <img src="img/photos/icon_1.png" alt="">
                                 </div>
                                 <h4>Glass House Resto</h4>
-                                <!-- <div class="overlay transition3s">
-                                    <div class="icon_position_table">
-                                        <div class="icon_container border_round">
-                                            <h2>Glass House Floating Resto</h2>
-                                            <p> </p>
-                                        </div>
-                                    </div>
-                                </div> -->
+                               
                             </a>
                         </div>
                         <div class="col-sm-3">
@@ -117,14 +99,7 @@
                                     <img src="img/photos/icon_2.png" alt="">
                                 </div>
                                 <h4>Sports & Activites</h4>
-                                <!-- <div class="overlay transition3s">
-                                    <div class="icon_position_table">
-                                        <div class="icon_container border_round">
-                                            <h2>Sports & Activites</h2>
-                                            <p> </p>
-                                        </div>
-                                    </div>
-                                </div> -->
+                               
                             </a>
                         </div>
                         <div class="col-sm-3">
@@ -133,14 +108,7 @@
                                     <img src="img/photos/icon_3.png" alt="">
                                 </div>
                                 <h4>Local Attractions</h4>
-                                <!-- <div class="overlay transition3s">
-                                    <div class="icon_position_table">
-                                        <div class="icon_container border_round">
-                                            <h2>Local Attractions</h2>
-                                            <p> </p>
-                                        </div>
-                                    </div>
-                                </div> -->
+                                
                             </a>
                         </div>
                     </div>
@@ -274,7 +242,6 @@
                                 <figure>
                                     <div class="background-image" data-background="url(img/photos/advaya-1.webp)"></div>
                                     <div class="info">
-                                        <small>Rent - Contact Us</small>
                                         <h3>Club Room</h3>
                                         <span>Read more</span>
                                     </div>
@@ -286,7 +253,6 @@
                                 <figure>
                                     <div class="background-image" data-background="url(img/photos/advaya-2.webp)"></div>
                                     <div class="info">
-                                        <small>Rent - Contact us</small>
                                         <h3>Club Premiere Room</h3>
                                         <span>Read more</span>
                                     </div>
@@ -300,7 +266,6 @@
                                 <figure>
                                     <div class="background-image" data-background="url(img/photos/advaya-3.webp)"></div>
                                     <div class="info">
-                                        <small>Rent - Contact us</small>
                                         <h3>Luxury Tented Suit</h3>
                                         <span>Read more</span>
                                     </div>
@@ -315,9 +280,8 @@
                         <div class="item">
                             <a href="advaya-booking.php#village_room" class="box_cat_rooms">
                                 <figure>
-                                    <div class="background-image" data-background="url(img/photos/advaya-4.webp)"></div>
+                                    <div class="background-image" data-background="url(img/photos/village_room.png)"></div>
                                     <div class="info">
-                                        <small>Rent - Contact us</small>
                                         <h3>Village House Room</h3>
                                         <span>Read more</span>
                                     </div>
@@ -346,7 +310,7 @@
             <div class="col-md-8 advaya-tab">
                 <div id="tsum-tabs">
                     <div class="title mb-3">
-                        <h2 data-cue="slideInUp" data-delay="200">Best Resort Near Sakleshpur</h2>
+                        <h2 data-cue="slideInUp" data-delay="200">Luxury Resort Near Sakleshpur</h2>
                     </div>
                     <main data-cues="slideInUp" data-delay="500">
 
@@ -375,7 +339,7 @@
                                 <div class="col-md-6">
                                     <ul>
                                     <!-- <li><i class="fa fa-arrow-circle-right"></i> Pool Volleyball</li> -->
-                                    <li><i class="fa fa-arrow-circle-right"></i> Water Polo Game</li>
+                                    <!-- <li><i class="fa fa-arrow-circle-right"></i> Water Polo Game</li> -->
                                     <li><i class="fa fa-arrow-circle-right"></i> Pool Side Dining</li>
                                     </ul>
                                 </div>
@@ -518,7 +482,7 @@
                             <h2>Advaya Luxury Resort</h2>
                         </div>
                         <p class="text-justify">We take immense pride in providing the best accommodation experience amidst the natural beauty of Sakleshpur.</p>
-                        <p class="phone_element no_borders"><a href=""><i class="bi bi-geo-alt"></i><span><em>Address</em>No 364, Main Road,
+                        <p class="phone_element no_borders"><a href="https://maps.app.goo.gl/mM31sXte66AvfyL48"><i class="bi bi-geo-alt"></i><span><em>Address</em>No 364, Main Road,
                             Ballupet Hoballi and Post
                             Sakaleshpura Taluk, Hasugavalli, Hassan,
                             District- Karnataka - 573214</span></a>
@@ -557,7 +521,6 @@
 <script src="js/common_scripts.js"></script>
 <script src="js/common_functions.js"></script>
 <script src="js/datepicker_inline.js"></script>
-<script src="phpmailer/validate.js"></script>
 <script>
     // Progress bars animation
     $(function() {

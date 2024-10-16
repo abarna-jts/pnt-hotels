@@ -1,6 +1,9 @@
 <?php include("header.php"); ?>
 <!-- /nav_panel -->
 <style>
+    a:hover{
+        text-decoration: none;
+    }
     .bg_white .title h3 {
         margin-bottom: 10px;
         /* font-size: 1.5rem; */
@@ -78,15 +81,8 @@
                                 <div class="icon-box">
                                     <img src="img/1.png" alt="">
                                 </div>
-                                <h4>Luxuary Room </h4>
-                                <!-- <div class="overlay transition3s">
-                                    <div class="icon_position_table">
-                                        <div class="icon_container border_round">
-                                            <h2>Conference & Events </h2>
-                                            <p> </p>
-                                        </div>
-                                    </div>
-                                </div> -->
+                                <h4>Rooms </h4>
+                               
                             </a>
                         </div>
                         <div class="col-sm-3">
@@ -95,14 +91,7 @@
                                     <img src="img/2.png" alt="">
                                 </div>
                                 <h4>Inhouse Restaurant </h4>
-                                <!-- <div class="overlay transition3s">
-                                    <div class="icon_position_table">
-                                        <div class="icon_container border_round">
-                                            <h2>Conference & Events </h2>
-                                            <p> </p>
-                                        </div>
-                                    </div>
-                                </div> -->
+                               
                             </a>
                         </div>
                         <div class="col-sm-3 drop-icon">
@@ -111,14 +100,7 @@
                                     <img src="img/3.png" alt="">
                                 </div>
                                 <h4>Pick & Drop Facility</h4>
-                                <!-- <div class="overlay transition3s">
-                                    <div class="icon_position_table">
-                                        <div class="icon_container border_round">
-                                            <h2>Conference & Events </h2>
-                                            <p> </p>
-                                        </div>
-                                    </div>
-                                </div> -->
+                                
                             </a>
                         </div>
                         <div class="col-sm-3">
@@ -127,14 +109,7 @@
                                     <img src="img/4.png" alt="">
                                 </div>
                                 <h4>Local Attraction</h4>
-                                <!-- <div class="overlay transition3s">
-                                    <div class="icon_position_table">
-                                        <div class="icon_container border_round">
-                                            <h2>Conference & Events </h2>
-                                            <p> </p>
-                                        </div>
-                                    </div>
-                                </div> -->
+                               
                             </a>
                         </div>
                     </div>
@@ -207,7 +182,6 @@
                                 <figure>
                                     <div class="background-image" data-background="url(img/photos/club_1.png)"></div>
                                     <div class="info">
-                                        <small>Rent : Contact Us</small>
                                         <h3>Honey Comb Standard</h3>
                                         <span>Read more</span>
                                     </div>
@@ -221,7 +195,6 @@
                                 <figure>
                                     <div class="background-image" data-background="url(img/photos/club_2.png)"></div>
                                     <div class="info">
-                                        <small>Rent : Contact Us</small>
                                         <h3>Honey Comb</h3>
                                         <span>Read more</span>
                                     </div>
@@ -235,7 +208,6 @@
                                 <figure>
                                     <div class="background-image" data-background="url(img/photos/club_3.png)"></div>
                                     <div class="info">
-                                        <small>Rent : Contact Us</small>
                                         <h3>Mellow Glory</h3>
                                         <span>Read more</span>
                                     </div>
@@ -249,7 +221,6 @@
                                 <figure>
                                     <div class="background-image" data-background="url(img/photos/club_4.png)"></div>
                                     <div class="info">
-                                        <small>Rent : Contact Us</small>
                                         <h3>Euphoria</h3>
                                         <span>Read more</span>
                                     </div>
@@ -263,7 +234,6 @@
                                 <figure>
                                     <div class="background-image" data-background="url(img/photos/club_5.png)"></div>
                                     <div class="info">
-                                        <small>Rent : Contact Us</small>
                                         <h3>Bliss</h3>
                                         <span>Read more</span>
                                     </div>
@@ -276,7 +246,6 @@
                                 <figure>
                                     <div class="background-image" data-background="url(img/photos/club_6.png)"></div>
                                     <div class="info">
-                                        <small>Rent : Contact Us</small>
                                         <h3>Calista</h3>
                                         <span>Read more</span>
                                     </div>
@@ -288,7 +257,6 @@
                                 <figure>
                                     <div class="background-image" data-background="url(img/photos/club_7.png)"></div>
                                     <div class="info">
-                                        <small>Rent : Contact Us</small>
                                         <h3>Rukum</h3>
                                         <span>Read more</span>
                                     </div>
@@ -449,73 +417,7 @@
     </div>
 
 
-    <!-- <div class="bg-white">
-        <div class="container add_bottom_60 add_top_60">
-            <div class="row justify-content-between margin_60_0">
-                <div class="col-lg-4">
-                    <div class="title">
-                        <small>Welbeck Vintage By Oxygen Resorts,Ooty</small>
-                        <h3>Core Value of Resort</h3>
-                    </div>
-                    <p>Can’t find your question in the list?
-                        Let us know your questions.</p>
-                    <p><a href="https://api.whatsapp.com/send?phone=%20919916609006&utm_source=Whatsapp&utm_medium=cpc&utm_campaign=WhatsApp_Website_Click%20&text=Hello!%20I%20found%20Your%20Number%20on%20thearaise.com/oxygen-resort-ooty.php%20Website.%20Please%20Call%20Me%20Back%20With%20The%20Information" class="animated_link"><strong>Contact Us <i class="bi bi-arrow-right"></i></strong></a></p>
-                </div>
-                <div class="col-lg-7">
-                    <div role="tablist" class="mb-5 accordion" id="faq">
-                        <div class="card">
-                            <div class="card-header" role="tab">
-                                <h5 class="mb-0">
-                                    <a class="collapsed" data-bs-toggle="collapse" href="" aria-expanded="false">
-                                        <i class="indicator bi-plus-lg"></i><b>Ultimate Comfort at Welbeck</b>
-                                    </a>
-                                </h5>
-                            </div>
-                            <div id="collapseOne_product" class="collapse" role="tabpanel" data-bs-parent="#faq">
-                                <div class="card-body">
-                                    <p>	
-                                        Perched overlooking the racecourse, valley area, and the enchanting city below, Welbeck Vintage offers breathtaking views that will leave you spellbound. Whether you're here for leisure or business, our expansive resort caters to your every need, providing a haven of relaxation and comfort.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="card">
-                            <div class="card-header" role="tab">
-                                <h5 class="mb-0">
-                                    <a class="collapsed" data-bs-toggle="collapse" href="" aria-expanded="false">
-                                        <i class="indicator bi-plus-lg"></i>Popular Tourist Attractions
-                                    </a>
-                                </h5>
-                            </div>
-                            <div id="collapseTwo_product" class="collapse" role="tabpanel" data-bs-parent="#faq">
-                                <div class="card-body">
-                                    <p>	
-                                    Venture out and explore the wonders of Ooty, with popular tourist attractions such as the Rose Garden, Botanical Garden, and Dodda Betta Peak just a stone's throw away. Whether you're a nature enthusiast, an adventure seeker, or simply looking to unwind amidst stunning surroundings, Welbeck Vintage offers the perfect base for your Ooty escapade.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="card">
-                            <div class="card-header" role="tab">
-                                <h5 class="mb-0">
-                                    <a class="collapsed" data-bs-toggle="collapse" href="" aria-expanded="false">
-                                        <i class="indicator bi-plus-lg"></i>Modern Amenities
-                                    </a>
-                                </h5>
-                            </div>
-                            <div id="collapseThree_product" class="collapse" role="tabpanel" data-bs-parent="#faq">
-                                <div class="card-body">
-                                    <p>Step into our elegantly adorned rooms, where modern amenities seamlessly blend with timeless charm. From plush furnishings to luxurious draperies, every detail is thoughtfully curated to ensure a truly memorable stay.</p>
-                                </div>
-                            </div>
-                        </div>
-                        
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div> -->
-
+    
 
 
     
@@ -529,7 +431,7 @@
                             <h2>Welbeck Vintage by Oxygen Resorts</h2>
                         </div>
                         <p class="text-justify">Discover a unique nature experience at Oxygen Resorts, where exceptional meets the beauty of nature.</p>
-                        <p class="phone_element no_borders"><a href=""><i class="bi bi-geo-alt"></i><span><em>Address</em>9MXX+GPM, Welbeck Rd, above Woodlands Hotel, Fern Hill, Ooty, Tamil Nadu 643001</span></a></p>
+                        <p class="phone_element no_borders"><a href="https://maps.app.goo.gl/BH7qt1ETKKExzUFE9"><i class="bi bi-geo-alt"></i><span><em>Address</em>Coonoor Rd, Thalayathimund, Ooty, Tamil Nadu 643001</span></a></p>
                         <p class="phone_element no_borders"><a href="tel://9916669006"><i class="bi bi-telephone"></i><span><em>Info and bookings</em>9916669006</span></a></p>
                         <p class="text-start mt-3"><a href="https://wa.me/919916669006" class="btn_1 outline">Book Now</a></p>
                     </div>
@@ -564,7 +466,6 @@
 <script src="js/common_scripts.js"></script>
 <script src="js/common_functions.js"></script>
 <script src="js/datepicker_inline.js"></script>
-<script src="phpmailer/validate.js"></script>
 <script>
     // Progress bars animation
     $(function() {

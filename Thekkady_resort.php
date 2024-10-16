@@ -45,11 +45,7 @@
         padding-left: 25px;
     }
 
-    /* .center-text{
-    position: absolute;
-    left: 71%;
-    top: 24%;
-} */
+   
 </style>
 <main>
 
@@ -86,14 +82,7 @@
                                     <img src="img/1.png" alt="">
                                 </div>
                                 <h4>Luxury Rooms </h4>
-                                <!-- <div class="overlay transition3s">
-                                    <div class="icon_position_table">
-                                        <div class="icon_container border_round">
-                                            <h2>Luxury Spa </h2>
-                                            <p> </p>
-                                        </div>
-                                    </div>
-                                </div> -->
+                                
                             </a>
                         </div>
                         <div class="col-sm-3">
@@ -102,14 +91,7 @@
                                     <img src="img/2.png" alt="">
                                 </div>
                                 <h4>Amenities</h4>
-                                <!-- <div class="overlay transition3s">
-                                    <div class="icon_position_table">
-                                        <div class="icon_container border_round">
-                                            <h2>Inhouse Restaurant</h2>
-                                            <p> </p>
-                                        </div>
-                                    </div>
-                                </div> -->
+                                
                             </a>
                         </div>
                         <div class="col-sm-3">
@@ -118,14 +100,7 @@
                                     <img src="img/3.png" alt="">
                                 </div>
                                 <h4>Place to See</h4>
-                                <!-- <div class="overlay transition3s">
-                                    <div class="icon_position_table">
-                                        <div class="icon_container border_round">
-                                            <h2>Fitness Gym</h2>
-                                            <p> </p>
-                                        </div>
-                                    </div>
-                                </div> -->
+                                
                             </a>
                         </div>
                         <div class="col-sm-3">
@@ -134,14 +109,7 @@
                                     <img src="img/1.png" alt="">
                                 </div>
                                 <h4>Local Attraction</h4>
-                                <!-- <div class="overlay transition3s">
-                                    <div class="icon_position_table">
-                                        <div class="icon_container border_round">
-                                            <h2>Delicious Food</h2>
-                                            <p> </p>
-                                        </div>
-                                    </div>
-                                </div> -->
+                                
                             </a>
                         </div>
                     </div>
@@ -276,7 +244,6 @@
                                 <figure>
                                     <div class="background-image" data-background="url(img/photos/thekady-1.png)"></div>
                                     <div class="info">
-                                        <small>Rent - Contact Us</small>
                                         <h3>Deluxe Room</h3>
                                         <span>Read more</span>
                                     </div>
@@ -288,7 +255,6 @@
                                 <figure>
                                     <div class="background-image" data-background="url(img/photos/thekady-2.png)"></div>
                                     <div class="info">
-                                        <small>Rent - Contact us</small>
                                         <h3>Economy Room</h3>
                                         <span>Read more</span>
                                     </div>
@@ -302,7 +268,6 @@
                                 <figure>
                                     <div class="background-image" data-background="url(img/photos/thekady-3.png)"></div>
                                     <div class="info">
-                                        <small>Rent - Contact us</small>
                                         <h3>Super Room</h3>
                                         <span>Read more</span>
                                     </div>
@@ -319,7 +284,6 @@
                                 <figure>
                                     <div class="background-image" data-background="url(img/photos/thekady-4.png)"></div>
                                     <div class="info">
-                                        <small>Rent - Contact us</small>
                                         <h3>Family Room</h3>
                                         <span>Read more</span>
                                     </div>
@@ -417,9 +381,7 @@
                                 <li data-cue="slideInUp" data-delay="400" data-show="true" style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 400ms; animation-direction: normal; animation-fill-mode: both;">
                                     <p>Air Conditioning</p>
                                 </li>
-                                <li data-cue="slideInUp" data-delay="400" data-show="true" style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 400ms; animation-direction: normal; animation-fill-mode: both;">
-                                    <p>Carpeted</p>
-                                </li>
+                                
                             </ul>
                         </div>
                     </div>
@@ -489,9 +451,7 @@
                                         <li data-cue="slideInUp" data-delay="200" data-show="true" style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 200ms; animation-direction: normal; animation-fill-mode: both;">
                                             <p>Bonfire</p>
                                         </li>
-                                        <li data-cue="slideInUp" data-delay="200" data-show="true" style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 200ms; animation-direction: normal; animation-fill-mode: both;">
-                                            <p>Kayaking</p>
-                                        </li>
+                                        
                                         <li data-cue="slideInUp" data-delay="200" data-show="true" style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 200ms; animation-direction: normal; animation-fill-mode: both;">
                                             <p>Jungle Trekking</p>
                                         </li>
@@ -511,15 +471,7 @@
                                         <li data-cue="slideInUp" data-delay="200" data-show="true" style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 200ms; animation-direction: normal; animation-fill-mode: both;">
                                             <p>Plantation Walk</p>
                                         </li>
-                                        <li data-cue="slideInUp" data-delay="200" data-show="true" style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 200ms; animation-direction: normal; animation-fill-mode: both;">
-                                            <p>Hanging Bridge</p>
-                                        </li>
-                                        <li data-cue="slideInUp" data-delay="200" data-show="true" style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 200ms; animation-direction: normal; animation-fill-mode: both;">
-                                            <p>Mud Volley Ball</p>
-                                        </li>
-                                        <li data-cue="slideInUp" data-delay="200" data-show="true" style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 200ms; animation-direction: normal; animation-fill-mode: both;">
-                                            <p>Rope Climbing</p>
-                                        </li>
+                                        
                                         <li data-cue="slideInUp" data-delay="200" data-show="true" style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 200ms; animation-direction: normal; animation-fill-mode: both;">
                                             <p>Badminton Court</p>
                                         </li>
@@ -569,149 +521,6 @@
 
     </div>
 
-    <!-- <div class="container margin_120_95" id="reviews">
-            <div class="row justify-content-between">
-                <div class="col-lg-4 order-lg-2 fixed_title reviews_sum_details">
-                    <div class="title">
-                        <small>Paradise Hotel</small>
-                        <h2>Reviews</h2>
-                    </div>
-                    <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus.</p>
-                    <h6>Comfort</h6>
-                    <div class="row mb-2">
-                        <div class="col-xl-10 col-lg-9 col-10">
-                            <div class="progress">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-                            </div>
-                        </div>
-                        <div class="col-xl-2 col-lg-3 col-2"><strong>9.0</strong></div>
-                    </div>
-
-                    <h6>Facilities</h6>
-                    <div class="row mb-2">
-                        <div class="col-xl-10 col-lg-9 col-10">
-                            <div class="progress">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
-                            </div>
-                        </div>
-                        <div class="col-xl-2 col-lg-3 col-2"><strong>9.5</strong></div>
-                    </div>
-
-                    <h6>Location</h6>
-                    <div class="row mb-2">
-                        <div class="col-xl-10 col-lg-9 col-10">
-                            <div class="progress">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
-                            </div>
-                        </div>
-                        <div class="col-xl-2 col-lg-3 col-2"><strong>6.0</strong></div>
-                    </div>
-                    <h6>Price</h6>
-                    <div class="row mb-2">
-                        <div class="col-xl-10 col-lg-9 col-10">
-                            <div class="progress">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
-                            </div>
-                        </div>
-                        <div class="col-xl-2 col-lg-3 col-2"><strong>6.0</strong></div>
-                    </div>
-
-                </div>
-                <div class="col-lg-7 order-lg-1">
-                    <div class="review_card">
-                        <div class="row">
-                            <div class="col-md-2 user_info">
-                                <figure><img src="img/avatar4.jpg" alt=""></figure>
-                                <h5>Lukas</h5>
-                            </div>
-                            <div class="col-md-10 review_content">
-                                <div class="clearfix mb-3">
-                                    <span class="rating">8.5<small>/10</small> <strong>Rating average</strong></span>
-                                    <em>Published 54 minutes ago</em>
-                                </div>
-                                <h4>"Great Location!!"</h4>
-                                <p>Eos tollit ancillae ea, lorem consulatu qui ne, eu eros eirmod scaevola sea. Et nec tantas accusamus salutatus, sit commodo veritus te, erat legere fabulas has ut. Rebum laudem cum ea, ius essent fuisset ut. Viderer petentium cu his. Tollit molestie suscipiantur his et.</p>
-                            </div>
-                        </div>
-
-                    </div>
-
-                    <div class="review_card">
-                        <div class="row">
-                            <div class="col-md-2 user_info">
-                                <figure><img src="img/avatar6.jpg" alt=""></figure>
-                                <h5>Lukas</h5>
-                            </div>
-                            <div class="col-md-10 review_content">
-                                <div class="clearfix mb-3">
-                                    <span class="rating">8.5<small>/10</small> <strong>Rating average</strong></span>
-                                    <em>Published 10 Oct. 2022</em>
-                                </div>
-                                <h4>"Awesome Experience"</h4>
-                                <p>Eos tollit ancillae ea, lorem consulatu qui ne, eu eros eirmod scaevola sea. Et nec tantas accusamus salutatus, sit commodo veritus te, erat legere fabulas has ut. Rebum laudem cum ea, ius essent fuisset ut. Viderer petentium cu his. Tollit molestie suscipiantur his et.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="review_card">
-                        <div class="row">
-                            <div class="col-md-2 user_info">
-                                <figure><img src="img/avatar1.jpg" alt=""></figure>
-                                <h5>Marika</h5>
-                            </div>
-                            <div class="col-md-10 review_content">
-                                <div class="clearfix mb-3">
-                                    <span class="rating">9.0<small>/10</small> <strong>Rating average</strong></span>
-                                    <em>Published 11 Oct. 2022</em>
-                                </div>
-                                <h4>"Really great dinner!!"</h4>
-                                <p>Eos tollit ancillae ea, lorem consulatu qui ne, eu eros eirmod scaevola sea. Et nec tantas accusamus salutatus, sit commodo veritus te, erat legere fabulas has ut. Rebum laudem cum ea, ius essent fuisset ut. Viderer petentium cu his. Tollit molestie suscipiantur his et.</p>
-                            </div>
-                        </div>
-                        <div class="row reply">
-                            <div class="col-md-2 user_info">
-                                <figure><img src="img/avatar.jpg" alt=""></figure>
-                            </div>
-                            <div class="col-md-10">
-                                <div class="review_content">
-                                    <strong>Reply from Admin</strong>
-                                    <em>Published 3 minutes ago</em>
-                                    <p><br>Hi Monika,<br><br>Eos tollit ancillae ea, lorem consulatu qui ne, eu eros eirmod scaevola sea. Et nec tantas accusamus salutatus, sit commodo veritus te, erat legere fabulas has ut. Rebum laudem cum ea, ius essent fuisset ut. Viderer petentium cu his. Tollit molestie suscipiantur his et.<br><br>Thanks</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <p class="text-end"><a href="#0" class="btn_1">Leave a review</a></p>
-                </div>
-            </div>
-        </div> -->
-    <!-- /reviews -->
-
-
-    <!-- /bg_white -->
-
-
-
-    <!-- <div class="container-fluid">
-            <div class="row">
-                <div class="col-md-6">
-                    <img src="img/photos/m-img.webp" class="m-img"/> 
-                </div>
-                <div class="col-md-6" style="background-image:url('img/photos/bg.jpg');">
-                    <h3>Best Resort In Sakleshpur</h3>
-                    <p>Mookanana Resort & Spa</p>
-                    <p>Join us as we take you on a journey through the luxurious amenities
-                         at Mookanana Resort & Spa. From the tranquil swimming pool nestled 
-                         in the heart of a coffee plantation to the culinary delights at our
-                          stunning restaurant, experience a day of relaxation and indulgence.
-                           Don't forget to like, comment, and subscribe for more insights into
-                            our beautiful resort!</p>
-                    <div class="icon">
-
-                    </div>
-                </div>
-            </div>
-        </div> -->
-
 
         <div class="check_availability  bg-white" id="local_attraction">
         <div class="container margin_120_95" id="booking_section">
@@ -723,7 +532,7 @@
                             <h2>Oxygen Resorts, Thekkady</h2>
                         </div>
                         <p class="text-justify">Discover a unique luxury experience at Oxygen Resorts, Thekkady where exceptional meets the beauty of nature.</p>
-                        <p class="phone_element no_borders"><a href=""><i class="bi bi-geo-alt"></i><span><em>Address</em>Murikkady PO, Kumily Anavilasam Road, Thekkady, Kumily, Kerala 685535</span></a></p>
+                        <p class="phone_element no_borders"><a href="https://maps.app.goo.gl/9pkgFkbCqoRnHtJC6"><i class="bi bi-geo-alt"></i><span><em>Address</em>Murikkady PO, Kumily Anavilasam Road, Thekkady, Kumily, Kerala 685535</span></a></p>
                         <p class="phone_element no_borders"><a href="tel://9916669006"><i class="bi bi-telephone"></i><span><em>Info and bookings</em>9916669006</span></a></p>
                         <p class="text-start mt-3"><a href="https://api.whatsapp.com/send?phone=%20919916609006&utm_source=Whatsapp&utm_medium=cpc&utm_campaign=WhatsApp_Website_Click%20&text=Hello!%20I%20found%20Your%20Number%20on%20thearaise.com/oxygen-resorts-thekkady.php%20Website.%20Please%20Call%20Me%20Back%20With%20The%20Information" class="btn_1 outline">Book Now</a></p>
                     </div>

@@ -121,17 +121,7 @@
         height: 230px;
     }
 
-    /* .mookana_content .row{
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    } */
-
-    /* .center-text{
-    position: absolute;
-    left: 71%;
-    top: 24%;
-} */
+   
 </style>
 <main>
 
@@ -151,16 +141,16 @@
             <div class="row justify-content-between">
                 <div class="col-lg-6">
                     <div class="title">
-                        <small>Nature Impressive Experience </small>
+                        <small>Moo - Move, Kanana - Towards Forest </small>
                         <h3>Mookanana Jungle Resort and Spa, Sakleshpur</h3>
                     </div>
-                    <p style="text-align:justify;">Discover a unique getaway at Mookanana Jungle Resort and Spa, nestled in the heart of the 
-                        Mookanana Jungle Resort in Sakleshpur, Karnataka.This stunning resort offers exclusive cottages inspired by tribal architecture, a refreshing 
+                    <p style="text-align:justify;">Discover a unique getaway at Mookanana Jungle Resort and Spa, nestled in the heart of of with Western ghats. 
+                        This stunning resort in Sakleshpur offers exclusive cottages inspired by tribal architecture, scenic view restaurants, a refreshing 
                          swimming pool, a serene lake, and exciting jungle & falls trekking adventures.</p>
 
                     <p style="text-align:justify;">Surrounded by the rich biodiversity of a wildlife center this 
-                    destination is enveloped by three majestic hills and picturesque waterfalls just half a 
-                    kilometer from the falls The resort's innovative igloo architecture blends seamlessly with the natural surroundings,
+                    destination is enveloped by three majestic hills and picturesque waterfalls just 2 Kilometer from the Mookanana abbi fall. 
+                    The resort's innovative igloo architecture blends seamlessly with the natural surroundings,
                     creating a serene atmosphere for guests.</p>
 
                     <p style="text-align:justify;">Located in the core of the Western Ghats, Mookanana Jungle Resort and Spa promises an unforgettable
@@ -183,7 +173,7 @@
                                 <div class="icon-box">
                                     <img src="img/photos/icon_1.png" alt="">
                                 </div>
-                                <h4>Glass House Resto</h4>
+                                <h4>Scenic View Restaurants</h4>
                                 
                             </a>
                         </div>
@@ -227,7 +217,7 @@
             <div class="container-fluid p-lg-0">
                 <div class="container">
                     <div class="title text-center mb-3">
-                        <small data-cue="slideInUp">Jungle Forest</small>
+                        <small data-cue="slideInUp">Photos</small>
                         <h2 data-cue="slideInUp" data-delay="200">Our Gallery</h2>
                     </div>
                 </div>
@@ -314,7 +304,7 @@
     <div class="bg_white" id="local_attraction">
         <div class="container add_top_60 add_bottom_60 events">
             <div class="title mb-3">
-                <small data-cue="slideInUp">Jungle Forest Experience</small>
+                <small data-cue="slideInUp">Jungle Experience</small>
                 <h2 data-cue="slideInUp" data-delay="200">Things to do in Sakleshpur</h2>
             </div>
             <div class="row home justify-content-center" id="gallery-container">
@@ -374,26 +364,6 @@
                         </div>
                     </a>
                 </div>
-                <!-- <div class="item col-xl-4 col-lg-6">
-                    <a href="" class="box_contents" data-cue="slideInUp" data-delay="500">
-                        <figure><img src="img/photos/science_tour.png" alt="" class="img-fluid"></figure>
-                        <div class="wrapper wrapper-1" >
-                            <h2>SCIENCE & SKILL STUDY TOUR</h2>
-                            <ul class="placeslist placeslist-1">
-                                <li>Study of Western Ghat Plants and Ayurvedic Plants</li>
-                                <li>Study of Western Ghat Animals and Birds</li>
-                                <li>Study of River and land Formation</li>
-                                <li>Study of Florals and Faunas</li>
-                                <li>Study of Hydrology, Current Meter and Rain Gauge Station</li>
-                                <li>Study of Cropping Partners</li>
-                                <li>Study of Enery Sectors - Generation and Transmission</li>
-                                <li>Study of Water Bodies</li>
-
-                            </ul>
-                            <button class="btn_1 outline" data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_1.png">Read More</button>
-                        </div>
-                    </a>
-                </div> -->
                 
             </div>
            
@@ -407,32 +377,7 @@
         </div>
         <!--/container -->
     </div>
-    <!-- <div class="bg_white add_bottom_120">
-        <div class="container-fluid p-lg-0">
-            <div data-cues="zoomIn">
-                <div class="owl-carousel owl-theme carousel_item_centered kenburns rounded-img">
-                    <div class="item">
-                        <img src="img/photos/mookana-1.png" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="img/photos/mookana-3.png" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="img/photos/mookana-6.png" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="img/photos/mookana-7.png" alt="">
-                    </div>
-                </div>
-            </div>
-            <div class="text-center mt-5">
-                <a class="btn_1 outline" data-fslightbox="gallery_1" data-type="image" href="img/photos/mookana-1.png">FullScreen Gallery</a>
-                <a data-fslightbox="gallery_1" data-type="image" href="img/photos/mookana-3.png"></a>
-                <a data-fslightbox="gallery_1" data-type="image" href="img/photos/mookana-6.png"></a>
-                <a data-fslightbox="gallery_1" data-type="image" href="img/photos/mookana-7.png"></a>
-            </div>
-        </div>
-    </div> -->
+    
     <div class="parallax_section_1 jarallax" data-jarallax data-speed="0.2">
         <img class="jarallax-img kenburns-2" src="img/photos/parallax.webp" alt="">
         <div class="wrapper opacity-mask d-flex align-items-center justify-content-center text-center" data-opacity-mask="rgba(0, 0, 0, 0.5)">
@@ -525,17 +470,7 @@
                 <div class="row" data-cues="slideInUp" data-delay="800">
                     <div class="owl-carousel owl-theme carousel_item_centered kenburns rounded-img">
                         <!-- <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6"> -->
-                        <div class="item">
-                            <a href="mookana-booking.php#deluxe_room" class="box_cat_rooms">
-                                <figure>
-                                    <div class="background-image" data-background="url(img/photos/cozy-1.png)"></div>
-                                    <div class="info">
-                                        <h3>Cozy Room</h3>
-                                        <span>Read more</span>
-                                    </div>
-                                </figure>
-                            </a>
-                        </div>
+                        
                         <div class="item">
                             <a href="mookana-booking.php#hill_view" class="box_cat_rooms">
                                 <figure>
@@ -559,33 +494,23 @@
                             </a>
                         </div>
                         
-                        <!-- </div>
-                            <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6"> -->
-                        
-                        <!-- </div>
-                            <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6"> -->
-
-                        <!-- </div>
-                            <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6"> -->
-                        <!-- <div class="item">
-                            <a href="mookana-booking.php#double_bed" class="box_cat_rooms">
-                                <figure>
-                                    <div class="background-image" data-background="url(img/photos/double_bed.png)"></div>
-                                    <div class="info">
-                                        <h3>Double Bed Room Villa</h3>
-                                        <span>Read more</span>
-                                    </div>
-                                </figure>
-                            </a>
-                        </div> -->
-                        <!-- </div>
-                            <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6"> -->
                         <div class="item">
                             <a href="mookana-booking.php#private_pool" class="box_cat_rooms">
                                 <figure>
                                     <div class="background-image" data-background="url(img/photos/private_villa.png)"></div>
                                     <div class="info">
                                         <h3>Private Pool Villa</h3>
+                                        <span>Read more</span>
+                                    </div>
+                                </figure>
+                            </a>
+                        </div>
+                        <div class="item">
+                            <a href="mookana-booking.php#deluxe_room" class="box_cat_rooms">
+                                <figure>
+                                    <div class="background-image" data-background="url(img/photos/cozy-1.png)"></div>
+                                    <div class="info">
+                                        <h3>Cozy Room</h3>
                                         <span>Read more</span>
                                     </div>
                                 </figure>
@@ -642,7 +567,7 @@
                                 <div class="col-md-6">
                                     <ul>
                                     <!-- <li><i class="fa fa-arrow-circle-right"></i> Zip Line</li> -->
-                                        <li><i class="fa fa-arrow-circle-right"></i> Pool Volleyball</li>
+                                        <!-- <li><i class="fa fa-arrow-circle-right"></i> Pool Volleyball</li> -->
                                         <li><i class="fa fa-arrow-circle-right"></i> Pool Side Dining</li>
                                     </ul>
                                 </div>
@@ -668,7 +593,7 @@
                                 </div>
                                 <div class="col-md-6">
                                     <ul>
-                                        <li><i class="fa fa-arrow-circle-right"></i> Spin Tennis</li>
+                                        <!-- <li><i class="fa fa-arrow-circle-right"></i> Spin Tennis</li> -->
                                         <li><i class="fa fa-arrow-circle-right"></i> Billiards (Coming Soon)</li>
                                         <li><i class="fa fa-arrow-circle-right"></i> Table Tennis</li>
                                     </ul>
@@ -951,7 +876,7 @@
                             <h2>Mookanana Jungle Resort & Spa</h2>
                         </div>
                         <p class="text-justify">Discover a unique jungle experience at Mookanana Jungle Resort & Spa, where exceptional meets the beauty of nature.</p>
-                        <p class="phone_element no_borders"><a href=""><i class="bi bi-geo-alt"></i><span><em>Address</em>Hongadahalla Hettur Hobli, Sakaleshpur Taluk, Hassan Dist, Karnataka -573134</span></a></p>
+                        <p class="phone_element no_borders"><a href="https://maps.app.goo.gl/dErHNyxaeQQfpxxD7"><i class="bi bi-geo-alt"></i><span><em>Address</em>Hongadahalla Hettur Hobli, Sakaleshpur Taluk, Hassan Dist, Karnataka -573134</span></a></p>
                         <p class="phone_element no_borders"><a href="tel://9916669006"><i class="bi bi-telephone"></i><span><em>Info and bookings</em>+91 9916669006</span></a></p>
                         <p class="text-start mt-3"><a href="mookana-booking.php" class="btn_1 outline">Book Now</a></p>
                     </div>
@@ -988,7 +913,6 @@
 <script src="js/common_scripts.js"></script>
 <script src="js/common_functions.js"></script>
 <script src="js/datepicker_inline.js"></script>
-<script src="phpmailer/validate.js"></script>
 <script>
     // Progress bars animation
     $(function() {
