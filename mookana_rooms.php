@@ -10,7 +10,7 @@
  </style>
     <main>
         <div class="hero medium-height jarallax" data-jarallax data-speed="0.2">
-            <img class="jarallax-img" src="img/photos/mookana_banner.png" alt="">
+            <img class="jarallax-img" src="img/photos/mookana_banner.webp" alt="">
             <div class="wrapper opacity-mask d-flex align-items-center justify-content-center text-center animate_hero" data-opacity-mask="rgba(0, 0, 0, 0.5)">
                 <div class="container">
                     <small class="slide-animated one">Luxury Hotel Experience</small>
@@ -245,7 +245,7 @@
                             <h2>Check Availability</h2>
                         </div>
                         <p>Please select your desired dates and the number of guests to check the availability of rooms. </p>
-                        <p class="phone_element no_borders"><a href="tel://9916669006"><i class="bi bi-telephone"></i><span><em>Info and bookings</em>+91 9916669006</span></a></p>
+                        <p class="phone_element no_borders"><a href="tel://9916609006"><i class="bi bi-telephone"></i><span><em>Info and bookings</em>+91 9916609006</span></a></p>
                     </div>
                 </div>
                 <div class="col-xl-8">

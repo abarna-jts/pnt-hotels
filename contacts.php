@@ -12,7 +12,7 @@
     <main>
 
         <div class="hero medium-height jarallax" data-jarallax data-speed="0.2">
-            <img class="jarallax-img" src="img/photos/abt-banner.png" alt="">
+            <img class="jarallax-img" src="img/photos/abt-banner.webp" alt="">
             <div class="wrapper opacity-mask d-flex align-items-center justify-content-center text-center animate_hero" data-opacity-mask="rgba(0, 0, 0, 0.5)">
                 <div class="container">
                     <small class="slide-animated one">Discover Ultimate Experience</small>
@@ -47,7 +47,7 @@
                                 <i class="bi bi-telephone"></i>
                                 <h4>Telephone</h4>
                             </div>
-                                <div class="call">+ 91 9916669006<br></div>
+                                <div class="call">+ 91 9916609006<br></div>
                             </li>
                         </ul>
                     </div>
@@ -105,25 +105,25 @@
             <!-- /row -->
         </div>
         <!-- Success Popup Modal -->
-<!-- Success Popup Modal -->
-<div id="successModal" class="modal" tabindex="-1" role="dialog">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title">Success</h5>
-        <button type="button" class="close" id="closeModalButton" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <p>Email sent successfully!</p>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-  </div>
-</div>
+        <!-- Success Popup Modal -->
+        <div id="successModal" class="modal" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Success</h5>
+                    <button type="button" class="close" id="closeModalButton" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <p>Email sent successfully!</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+                </div>
+                </div>
+            </div>
+        </div>
 
 <script>
 document.getElementById("contactform").addEventListener("submit", function(e) {
@@ -174,7 +174,7 @@ document.getElementById("contactform").addEventListener("submit", function(e) {
                             <h2>PnT Hotel</h2>
                         </div>
                         <p class="text-justify">Discover a unique travel experience at PnT Hotel, where exceptional meets the beauty of nature.</p>
-                        <p class="phone_element no_borders"><a href="tel://9916669006"><i class="bi bi-telephone"></i><span><em>Call Us</em>+91 9916669006</span></a></p>
+                        <p class="phone_element no_borders"><a href="tel://9916609006"><i class="bi bi-telephone"></i><span><em>Call Us</em>+91 9916609006</span></a></p>
                     </div>
                 </div>
                 <div class="col-xl-5">

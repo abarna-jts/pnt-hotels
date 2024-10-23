@@ -25,7 +25,7 @@
 
 <main>
     <div class="hero medium-height jarallax" data-jarallax data-speed="0.2">
-        <img class="jarallax-img" src="img/photos/mookana_banner.png" alt="">
+        <img class="jarallax-img" src="img/photos/mookana_banner.webp" alt="">
         <div class="wrapper opacity-mask d-flex align-items-center justify-content-center text-center animate_hero" data-opacity-mask="rgba(0, 0, 0, 0.5)">
             <div class="container">
                 <small class="slide-animated one">Move towards Forest</small>
@@ -43,80 +43,13 @@
 
             
 
-            <div class="row_list_version_2" id="deluxe_room">
+            
+
+
+            <div class="row_list_version_2" id="hill_view">
                 <div class="row g-0 align-items-center justify-content-center" id="deluxe">
+
                     <div class="col-xl-6">
-                        <div class="owl-carousel owl-theme carousel_item_1 kenburns rounded-img owl-loaded owl-drag">
-                            <div class="owl-stage-outer">
-                                <div class="owl-stage">
-                                    <div class="owl-item active center">
-                                        <div class="item"><img src="img/photos/cozy-1.png" alt=""></div>
-                                    </div>
-                                    <div class="owl-item">
-                                        <div class="item"><img src="img/photos/cozy-2.png" alt=""></div>
-                                    </div>
-                                    <div class="owl-item">
-                                        <div class="item"><img src="img/photos/cozy-3.png" alt=""></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-nav disabled">
-                                <button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button>
-                                <button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button>
-                            </div>
-                            <div class="owl-dots">
-                                <button role="button" class="owl-dot active"><span></span></button>
-                                <button role="button" class="owl-dot"><span></span></button>
-                                <button role="button" class="owl-dot"><span></span></button>
-                            </div>
-                        </div>
-                        <!-- /carousel -->
-                    </div>
-                    <div class="col-xl-4">
-                        <div class="box_item_info">
-                            <h2>Cozy Room</h2>
-
-                            <div class="guest-info">
-                                <div class="left-side">
-                                    <i class="bi bi-person"></i>
-                                    <span>Maximum:</span>
-                                </div>
-                                <div class="right-side">
-                                    <p>2 Guests</p>
-                                </div>
-                            </div>
-                            <div class="guest-info">
-                                <div class="left-side">
-                                    <i class="bi bi-person"></i>
-                                    <span>Room Size:</span>
-                                </div>
-                                <div class="right-side">
-                                    <p>250 sqt</p>
-                                </div>
-                            </div>
-                            <div class="box_item_footer d-flex align-items-center justify-content-between">
-                                <a href="https://live.ipms247.com/booking/book-rooms-mookananaresortandspa?utm_source=Mookanana.com&utm_medium=Business+Listing&utm_campaign=Book-Now-CTA&utm_id=Book-Now-Button&utm_term=Mookanana+Resort&utm_content=SEO-Rakesh+T+Shankar" class="btn_4 learn-more">
-                                    <span class="circle">
-                                        <span class="icon arrow"></span>
-                                    </span>
-                                    <span class="button-text" href="">Book Now</span>
-                                </a>
-
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-            </div>
-
-
-            <div class="row_list_version_2 inverted" id="hill_view">
-                <div class="row g-0 align-items-center justify-content-center" id="deluxe">
-
-                    <div class="col-xl-6 order-xl-2">
                         <div class="owl-carousel owl-theme carousel_item_1 kenburns rounded-img owl-loaded owl-drag">
                             <div class="owl-stage-outer">
                                 <div class="owl-stage">
@@ -124,10 +57,10 @@
                                         <div class="item"><img src="img/photos/hill_view_img.webp" alt=""></div>
                                     </div>
                                     <div class="owl-item">
-                                        <div class="item"><img src="img/photos/hill_view_img2.webp" alt=""></div>
+                                        <div class="item"><img src="img/photos/hill_view_img2.jpg" alt=""></div>
                                     </div>
                                     <div class="owl-item">
-                                        <div class="item"><img src="img/photos/hill_view_img3.webp" alt=""></div>
+                                        <div class="item"><img src="img/photos/hill_view_img3.jpg" alt=""></div>
                                     </div>
                                 </div>
                             </div>
@@ -163,7 +96,7 @@
                                     <span>Room Size:</span>
                                 </div>
                                 <div class="right-side">
-                                    <p>450 sqt</p>
+                                    <p>850 sqt</p>
                                 </div>
                             </div>
                             <div class="box_item_footer d-flex align-items-center justify-content-between">
@@ -184,9 +117,9 @@
 
             </div>
 
-            <div class="row_list_version_2" id="valley_view">
+            <div class="row_list_version_2 inverted" id="valley_view">
                 <div class="row g-0 align-items-center justify-content-center" id="deluxe">
-                    <div class="col-xl-6">
+                    <div class="col-xl-6 order-xl-2">
                         <div class="owl-carousel owl-theme carousel_item_1 kenburns rounded-img owl-loaded owl-drag">
                             <div class="owl-stage-outer">
                                 <div class="owl-stage">
@@ -232,7 +165,7 @@
                                     <span>Room Size:</span>
                                 </div>
                                 <div class="right-side">
-                                    <p>850 sqt</p>
+                                    <p>450 sqt</p>
                                 </div>
                             </div>
                             <div class="box_item_footer d-flex align-items-center justify-content-between">
@@ -256,9 +189,9 @@
             
 
 
-            <div class="row_list_version_2 inverted" id="private_pool">
+            <div class="row_list_version_2" id="private_pool">
                 <div class="row g-0 align-items-center justify-content-center" id="deluxe">
-                    <div class="col-xl-6 order-xl-2">
+                    <div class="col-xl-6">
                         <div class="item">
                             <a data-fslightbox="gallery_1" data-type="image" href="img/photos/private_villa.png">
                                 <img src="img/photos/private_villa.png" alt="" class="img-fluid book-room"></a>
@@ -283,7 +216,77 @@
                                     <span>Room Size:</span>
                                 </div>
                                 <div class="right-side">
-                                    <p>1500 sqt</p>
+                                    <p>2500 sqt</p>
+                                </div>
+                            </div>
+                            <div class="box_item_footer d-flex align-items-center justify-content-between">
+                                <a href="https://live.ipms247.com/booking/book-rooms-mookananaresortandspa?utm_source=Mookanana.com&utm_medium=Business+Listing&utm_campaign=Book-Now-CTA&utm_id=Book-Now-Button&utm_term=Mookanana+Resort&utm_content=SEO-Rakesh+T+Shankar" class="btn_4 learn-more">
+                                    <span class="circle">
+                                        <span class="icon arrow"></span>
+                                    </span>
+                                    <span class="button-text" href="">Book Now</span>
+                                </a>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <div class="row_list_version_2 inverted" id="deluxe_room">
+                <div class="row g-0 align-items-center justify-content-center" id="deluxe">
+                    <div class="col-xl-6 order-xl-2">
+                        <div class="owl-carousel owl-theme carousel_item_1 kenburns rounded-img owl-loaded owl-drag">
+                            <div class="owl-stage-outer">
+                                <div class="owl-stage">
+                                    <div class="owl-item active center">
+                                        <div class="item"><img src="img/photos/cozy-1.webp" alt=""></div>
+                                    </div>
+                                    <div class="owl-item">
+                                        <div class="item"><img src="img/photos/cozy-2.webp" alt=""></div>
+                                    </div>
+                                    <div class="owl-item">
+                                        <div class="item"><img src="img/photos/cozy-3.webp" alt=""></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="owl-nav disabled">
+                                <button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button>
+                                <button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button>
+                            </div>
+                            <div class="owl-dots">
+                                <button role="button" class="owl-dot active"><span></span></button>
+                                <button role="button" class="owl-dot"><span></span></button>
+                                <button role="button" class="owl-dot"><span></span></button>
+                            </div>
+                        </div>
+                        <!-- /carousel -->
+                    </div>
+                    <div class="col-xl-4">
+                        <div class="box_item_info">
+                            <h2>Cozy Room</h2>
+
+                            <div class="guest-info">
+                                <div class="left-side">
+                                    <i class="bi bi-person"></i>
+                                    <span>Maximum:</span>
+                                </div>
+                                <div class="right-side">
+                                    <p>2 Guests</p>
+                                </div>
+                            </div>
+                            <div class="guest-info">
+                                <div class="left-side">
+                                    <i class="bi bi-person"></i>
+                                    <span>Room Size:</span>
+                                </div>
+                                <div class="right-side">
+                                    <p>250 sqt</p>
                                 </div>
                             </div>
                             <div class="box_item_footer d-flex align-items-center justify-content-between">

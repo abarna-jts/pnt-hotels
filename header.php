@@ -1,15 +1,13 @@
 <!DOCTYPE html>
 <html lang="zxx">
 
-
-<!-- Mirrored from www.ansonika.com/paradise/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 29 Aug 2024 06:30:03 GMT -->
-
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="Ansonika">
-    <title>PnT Hotel</title>
+    <title>PnT Hotels - Ultimate Travel Experience</title>
+    <meta name="description" content="PnT Hotels offers luxurious stays in India. Choose from eco-friendly retreats, vintage-inspired hotels, serene retreats, and resorts in Sakleshpur.">
+    <meta name="keywords" content="Sakleshpur resorts, resorts in sakleshpur, resorts in coorg, resorts in bangalore, resorts near bangalore, resorts near hassan, resorts near coorg, resorts near chikmagalur, coorg resorts, bangalore resorts, chikmagalur resorts, Family resort Saklespur Best resort Sakleshpur">
+    <link rel="canonical" href="https://www.pnthotels.com/" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <!-- Favicons-->
     <link rel="shortcut icon" href="img/favicon.webp" type="image/x-icon">
@@ -266,13 +264,13 @@
                         </ul>
                     </li>
                     <li><a href="packages.php">Our Packages</a>
-                        
+
                     </li>
                     <li><a href="contacts.php">Contact us</a></li>
 
                 </ul>
                 <div class="panel_footer">
-                    <div class="phone_element"><a href="tel://9916669006"><i class="bi bi-telephone"></i><span><em>Info and bookings</em>+91 9916669006</span></a></div>
+                    <div class="phone_element"><a href="tel://9916609006"><i class="bi bi-telephone"></i><span><em>Info and bookings</em>+91 9916609006</span></a></div>
                 </div>
                 <!-- /panel_footer -->
             </nav>
@@ -281,7 +279,7 @@
     </div>
     <!-- /nav_panel -->
 
-    <div class="header-modal" >
+    <div class="header-modal">
         <div class="modal fade" tabindex="-1" id="bookingModal" role="dialog" aria-labelledby="bookingModalLabel" aria-hidden="true">
             <div class="modal-dialog " role="document">
                 <div class="modal-content">
@@ -319,7 +317,7 @@
                             </div>
                             <div class="row">
                                 <div class="col-md-5">
-                                    <img src="img/photos/c-room.png" alt="" class="img-fluid room_img">
+                                    <img src="img/photos/c-room.webp" alt="" class="img-fluid room_img">
                                 </div>
                                 <div class="col-md-7">
                                     <div class="room-name">
@@ -331,7 +329,7 @@
                             </div>
                             <div class="row">
                                 <div class="col-md-5">
-                                    <img src="img/photos/thekady-1.png" alt="" class="img-fluid room_img">
+                                    <img src="img/photos/thekady-1.webp" alt="" class="img-fluid room_img">
                                 </div>
                                 <div class="col-md-7">
                                     <div class="room-name">
@@ -358,7 +356,7 @@
             </div>
         </div>
     </div>
-    
+
     <!-- Success message -->
     <div class="modal fade" id="successModal" tabindex="-1" role="dialog" aria-labelledby="successModalLabel" aria-hidden="true">
         <div class="modal-dialog" role="document">

@@ -242,7 +242,7 @@
                         <div class="item">
                             <a href="https://api.whatsapp.com/send?phone=%20919916609006&utm_source=Whatsapp&utm_medium=cpc&utm_campaign=WhatsApp_Website_Click%20&text=Hello!%20I%20found%20Your%20Number%20on%20thearaise.com/oxygen-resorts-thekkady.php%20Website.%20Please%20Call%20Me%20Back%20With%20The%20Information" class="box_cat_rooms">
                                 <figure>
-                                    <div class="background-image" data-background="url(img/photos/thekady-1.png)"></div>
+                                    <div class="background-image" data-background="url(img/photos/thekady-1.webp)"></div>
                                     <div class="info">
                                         <h3>Deluxe Room</h3>
                                         <span>Read more</span>
@@ -253,7 +253,7 @@
                         <div class="item">
                             <a href="https://api.whatsapp.com/send?phone=%20919916609006&utm_source=Whatsapp&utm_medium=cpc&utm_campaign=WhatsApp_Website_Click%20&text=Hello!%20I%20found%20Your%20Number%20on%20thearaise.com/oxygen-resorts-thekkady.php%20Website.%20Please%20Call%20Me%20Back%20With%20The%20Information" class="box_cat_rooms">
                                 <figure>
-                                    <div class="background-image" data-background="url(img/photos/thekady-2.png)"></div>
+                                    <div class="background-image" data-background="url(img/photos/thekady-2.webp)"></div>
                                     <div class="info">
                                         <h3>Economy Room</h3>
                                         <span>Read more</span>
@@ -266,7 +266,7 @@
                         <div class="item">
                             <a href="https://api.whatsapp.com/send?phone=%20919916609006&utm_source=Whatsapp&utm_medium=cpc&utm_campaign=WhatsApp_Website_Click%20&text=Hello!%20I%20found%20Your%20Number%20on%20thearaise.com/oxygen-resorts-thekkady.php%20Website.%20Please%20Call%20Me%20Back%20With%20The%20Information" class="box_cat_rooms">
                                 <figure>
-                                    <div class="background-image" data-background="url(img/photos/thekady-3.png)"></div>
+                                    <div class="background-image" data-background="url(img/photos/thekady-3.webp)"></div>
                                     <div class="info">
                                         <h3>Super Room</h3>
                                         <span>Read more</span>
@@ -282,7 +282,7 @@
                         <div class="item">
                             <a href="https://api.whatsapp.com/send?phone=%20919916609006&utm_source=Whatsapp&utm_medium=cpc&utm_campaign=WhatsApp_Website_Click%20&text=Hello!%20I%20found%20Your%20Number%20on%20thearaise.com/oxygen-resorts-thekkady.php%20Website.%20Please%20Call%20Me%20Back%20With%20The%20Information" class="box_cat_rooms">
                                 <figure>
-                                    <div class="background-image" data-background="url(img/photos/thekady-4.png)"></div>
+                                    <div class="background-image" data-background="url(img/photos/thekady-4.webp)"></div>
                                     <div class="info">
                                         <h3>Family Room</h3>
                                         <span>Read more</span>
@@ -458,9 +458,6 @@
                                         <li data-cue="slideInUp" data-delay="200" data-show="true" style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 200ms; animation-direction: normal; animation-fill-mode: both;">
                                             <p>Fishing</p>
                                         </li>
-                                        <li data-cue="slideInUp" data-delay="200" data-show="true" style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 200ms; animation-direction: normal; animation-fill-mode: both;">
-                                            <p>TT, Chess, Carrom & etc</p>
-                                        </li>
                                     </ul>
 
                                 </div>
@@ -475,7 +472,10 @@
                                         <li data-cue="slideInUp" data-delay="200" data-show="true" style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 200ms; animation-direction: normal; animation-fill-mode: both;">
                                             <p>Badminton Court</p>
                                         </li>
-
+                                        
+                                        <li data-cue="slideInUp" data-delay="200" data-show="true" style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 200ms; animation-direction: normal; animation-fill-mode: both;">
+                                            <p>TT, Chess, Carrom & etc</p>
+                                        </li>
 
                                     </ul>
                                 </div>
@@ -533,7 +533,7 @@
                         </div>
                         <p class="text-justify">Discover a unique luxury experience at Oxygen Resorts, Thekkady where exceptional meets the beauty of nature.</p>
                         <p class="phone_element no_borders"><a href="https://maps.app.goo.gl/9pkgFkbCqoRnHtJC6"><i class="bi bi-geo-alt"></i><span><em>Address</em>Murikkady PO, Kumily Anavilasam Road, Thekkady, Kumily, Kerala 685535</span></a></p>
-                        <p class="phone_element no_borders"><a href="tel://9916669006"><i class="bi bi-telephone"></i><span><em>Info and bookings</em>9916669006</span></a></p>
+                        <p class="phone_element no_borders"><a href="tel://9916609006"><i class="bi bi-telephone"></i><span><em>Info and bookings</em>9916609006</span></a></p>
                         <p class="text-start mt-3"><a href="https://api.whatsapp.com/send?phone=%20919916609006&utm_source=Whatsapp&utm_medium=cpc&utm_campaign=WhatsApp_Website_Click%20&text=Hello!%20I%20found%20Your%20Number%20on%20thearaise.com/oxygen-resorts-thekkady.php%20Website.%20Please%20Call%20Me%20Back%20With%20The%20Information" class="btn_1 outline">Book Now</a></p>
                     </div>
                 </div>

@@ -1,0 +1,7 @@
+[18-Oct-2024 21:43:49 UTC] PHP Notice:  Undefined index: message_contact in /home/pnthbquq/public_html/contact_mail.php on line 14
+[18-Oct-2024 21:43:52 UTC] PHP Notice:  Undefined index: firstname_contact in /home/pnthbquq/public_html/contact_mail.php on line 10
+[18-Oct-2024 21:43:52 UTC] PHP Notice:  Undefined index: lastname_contact in /home/pnthbquq/public_html/contact_mail.php on line 11
+[18-Oct-2024 21:43:52 UTC] PHP Notice:  Undefined index: email_contact in /home/pnthbquq/public_html/contact_mail.php on line 12
+[18-Oct-2024 21:43:52 UTC] PHP Notice:  Undefined index: phone_contact in /home/pnthbquq/public_html/contact_mail.php on line 13
+[18-Oct-2024 21:43:52 UTC] PHP Notice:  Undefined index: message_contact in /home/pnthbquq/public_html/contact_mail.php on line 14
+[18-Oct-2024 21:43:52 UTC] PHP Notice:  Undefined index: verify_contact in /home/pnthbquq/public_html/contact_mail.php on line 15

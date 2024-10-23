@@ -27,7 +27,7 @@
 
     <main>
         <div class="hero small-height jarallax" data-jarallax data-speed="0.2">
-            <img class="jarallax-img" src="img/photos/abt-banner.png" alt="">
+            <img class="jarallax-img" src="img/photos/abt-banner.webp" alt="">
             <div class="wrapper opacity-mask d-flex align-items-center justify-content-center text-center animate_hero" data-opacity-mask="rgba(0, 0, 0, 0.5)">
                 <div class="container">
                     <small class="slide-animated one">Unique Holiday Experience</small>
@@ -41,8 +41,8 @@
             <div class="row justify-content-between align-items-center about_img">
                 <div class="col-lg-5">
                     <div class="parallax_wrapper inverted">
-                        <img src="img/photos/abt-1.png" alt="" class="img-fluid rounded-img">
-                        <div data-cue="slideInUp" class="img_over"><span data-jarallax-element="-30"><img src="img/photos/abt_2.png" alt="" class="rounded-img"></span></div>
+                        <img src="img/photos/abt-1.webp" alt="" class="img-fluid rounded-img">
+                        <div data-cue="slideInUp" class="img_over"><span data-jarallax-element="-30"><img src="img/photos/abt_2.webp" alt="" class="rounded-img"></span></div>
                     </div>
                 </div>
                 <div class="col-lg-5">

@@ -1553,7 +1553,11 @@ header.fixed_header.sticky .hamburger__inner::after {
 
 .phone_element a {
     display: flex;
-    align-items: center
+    align-items: center;
+
+}
+.phone_element a:hover{
+    text-decoration: none;
 }
 
 .phone_element a span {
@@ -2324,8 +2328,9 @@ img.jarallax-img.kenburns-2 {
         font-size: 13px;
     }
     .footer-para {
-        width: 100%;
+        width: 100% !important;
         text-align: justify;
+        position: relative !important;
     }
     #successModal .modal-body{
         font-size: 13px;
@@ -3040,9 +3045,22 @@ footer .copy {
     margin-bottom: 25px
 }
 .footer-para{
-    width: 200%;
+    position: absolute;
+    z-index: 1;
+    width: 185%;
     text-align: justify;
+    margin: 4% 0%;
 }
+.footer-para a{
+    color:#e1c450;
+}
+.footer-para a:hover {
+    transform: translateX(10px);
+    text-decoration: underline;
+}
+/* .footer-para a:hover {
+    color: #e1c450;
+} */
 
 .footer_links ul {
     line-height: 1.7
@@ -6152,6 +6170,14 @@ textarea.form-control {
     }
 }
 @media (max-width: 1399px) and (min-width: 1200px) {
+    .footer-para {
+        position: absolute;
+        z-index: 1;
+        /* bottom: -2px; */
+        width: 185%;
+        text-align: justify;
+        margin: 5% 0%;
+    }
     .placeslist {
         height: 140px !important;
     }
@@ -6452,9 +6478,30 @@ textarea.form-control {
 }
 
 @media (min-width: 768px) and (max-width: 1024px) {
+    #amenties .col-md-6 {
+        flex: 0 0 50%;
+        max-width: 33%;
+    }
+    #amenties .col-lg-5{
+    width: 67%;
+    }
+    #amenties .justify-content-between {
+        justify-content: start !important;
+    }
+    .amenties .title h3 {
+        font-size: 1.2rem !important; 
+    }
+    .footer-links{
+        margin-top: -10%;
+    }
+    .footer-qr{
+        margin-top: -12%;
+    }
     .footer-para {
         width: 100%;
         text-align: justify;
+        margin: 7% 0%;
+        position: relative;
     }
     #local_attraction .pagination__wrapper{
         display: block;
@@ -6623,7 +6670,7 @@ textarea.form-control {
         max-width:18.666667%;
     }
     .footer-para {
-        width: 210% !important;
+        width: 187% !important;
         text-align: justify;
     }
     .contact_page ul {

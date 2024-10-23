@@ -126,7 +126,7 @@
 <main>
 
     <div class="hero small-height jarallax" data-jarallax data-speed="0.2">
-        <img class="jarallax-img" src="img/photos/mookana_banner.png" alt="">
+        <img class="jarallax-img" src="img/photos/mookana_banner.webp" alt="">
         <div class="wrapper opacity-mask d-flex align-items-center justify-content-center text-center animate_hero" data-opacity-mask="rgba(0, 0, 0, 0.5)">
             <div class="container">
                 <small class="slide-animated one">Move Towards Forest</small>
@@ -148,10 +148,9 @@
                         This stunning resort in Sakleshpur offers exclusive cottages inspired by tribal architecture, scenic view restaurants, a refreshing 
                          swimming pool, a serene lake, and exciting jungle & falls trekking adventures.</p>
 
-                    <p style="text-align:justify;">Surrounded by the rich biodiversity of a wildlife center this 
-                    destination is enveloped by three majestic hills and picturesque waterfalls just 2 Kilometer from the Mookanana abbi fall. 
-                    The resort's innovative igloo architecture blends seamlessly with the natural surroundings,
-                    creating a serene atmosphere for guests.</p>
+                    <p style="text-align:justify;">Surrounded by the rich biodiversity of a wildlife center, this destination is enveloped by three 
+                        majestic hills and picturesque Abbi waterfalls in just 2 Kilometers. The resort's innovative igloo architecture blends 
+                        seamlessly with the natural surroundings, creating a serene atmosphere for guests.</p>
 
                     <p style="text-align:justify;">Located in the core of the Western Ghats, Mookanana Jungle Resort and Spa promises an unforgettable
                      experience where nature and comfort intertwine.</p>
@@ -228,73 +227,73 @@
                             <img src="img/gallery/m_gal_1.webp" alt="">
                         </div>
                         <div class="item">
-                            <img src="img/gallery/m_gal_5.png" alt="">
+                            <img src="img/gallery/m_gal_5.webp" alt="">
                         </div>
                         <div class="item">
-                            <img src="img/gallery/m_gal_11.png" alt="">
+                            <img src="img/gallery/m_gal_11.webp" alt="">
                         </div>
                         <div class="item">
-                            <img src="img/gallery/m_gal_2.png" alt="">
+                            <img src="img/gallery/m_gal_2.webp" alt="">
                         </div>
                         <div class="item">
-                            <img src="img/gallery/m_gal_3.png" alt="">
+                            <img src="img/gallery/m_gal_3.webp" alt="">
                         </div>
                         <div class="item">
-                            <img src="img/gallery/m_gal_4.png" alt="">
-                        </div>
-                        
-                        <div class="item">
-                            <img src="img/gallery/m_gal_6.png" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="img/gallery/m_gal_7.png" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="img/gallery/m_gal_8.png" alt="">
+                            <img src="img/gallery/m_gal_4.webp" alt="">
                         </div>
                         
                         <div class="item">
-                            <img src="img/gallery/m_gal_10.png" alt="">
+                            <img src="img/gallery/m_gal_6.webp" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="img/gallery/m_gal_7.webp" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="img/gallery/m_gal_8.webp" alt="">
                         </div>
                         
                         <div class="item">
-                            <img src="img/gallery/m_gal_12.png" alt="">
+                            <img src="img/gallery/m_gal_10.webp" alt="">
+                        </div>
+                        
+                        <div class="item">
+                            <img src="img/gallery/m_gal_12.webp" alt="">
                         </div>
                         <div class="item">
-                            <img src="img/gallery/m_gal_13.png" alt="">
+                            <img src="img/gallery/m_gal_13.webp" alt="">
                         </div>
                         <div class="item">
-                            <img src="img/gallery/m_gal_14.png" alt="">
+                            <img src="img/gallery/m_gal_14.webp" alt="">
                         </div>
                         <!-- <div class="item">
                             <img src="img/gallery/m_gal_15.png" alt="">
                         </div> -->
                         <div class="item">
-                            <img src="img/gallery/m_gal_16.png" alt="">
+                            <img src="img/gallery/m_gal_16.webp" alt="">
                         </div>
                         <div class="item">
-                            <img src="img/gallery/m_gal_9.png" alt="">
+                            <img src="img/gallery/m_gal_9.webp" alt="">
                         </div>
                         
                     </div>
                 </div>
                 <div class="text-center mt-5">
                     <a class="btn_1 outline" data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_1.png">FullScreen Gallery</a>
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_2.png"></a>
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_3.png"></a>
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_4.png"></a>
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_5.png"></a>
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_6.png"></a>
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_7.png"></a>
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_8.png"></a>
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_9.png"></a>
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_10.png"></a>
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_11.png"></a>
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_12.png"></a>
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_13.png"></a>
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_14.png"></a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_2.webp"></a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_3.webp"></a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_4.webp"></a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_5.webp"></a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_6.webp"></a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_7.webp"></a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_8.webp"></a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_9.webp"></a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_10.webp"></a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_11.webp"></a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_12.webp"></a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_13.webp"></a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_14.webp"></a>
                     <!-- <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_15.png"></a> -->
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_16.png"></a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_16.webp"></a>
                 </div>
             </div>
         </div>
@@ -310,7 +309,7 @@
             <div class="row home justify-content-center" id="gallery-container">
                 <div class="item col-xl-4 col-lg-6">
                     <a href="things_do.php#trekkers" class="box_contents" data-cue="slideInUp" data-delay="300">
-                        <figure><img src="img/photos/trekker.png" alt="" class="img-fluid"></figure>
+                        <figure><img src="img/photos/trekker.webp" alt="" class="img-fluid"></figure>
                         <div class="wrapper">
                             <h2>FOR TREKKERS</h2>
                             <p>There are many routes worth Trekking in and around Sakleshpur. </p>
@@ -321,17 +320,17 @@
                                 <li>Betakumari Falls</li>
                                 <li>Bisale Ghat [Beauty Spot] Kumaradhara River View at 180ft</li>
                             </ul>
-                            <button class="btn_1 outline" data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_1.png">Read More</button>
+                            <button class="btn_1 outline" data-fslightbox="gallery_1" data-type="image" >Read More</button>
                         </div>
                     </a>
                 </div>
                 <div class="item col-xl-4 col-lg-6">
                     <a href="things_do.php#sightseeking" class="box_contents" data-cue="slideInUp" data-delay="400">
-                        <figure><img src="img/photos/sideseeking.png" alt="" class="img-fluid"></figure>
+                        <figure><img src="img/photos/sideseeking.webp" alt="" class="img-fluid"></figure>
                         <div class="wrapper">
 
                             <h2>FOR SIGHTSEEING</h2>
-                            <p>Beautiful Places worth Seeing are </p>
+                            <p>Beautiful Places in Sakleshpur are </p>
                             <ul class="placeslist">
                                 <li>Mookana Mane Abbi Waterfalls</li>
                                 <li>Kaginahare View Point[Mini Switzerland]</li>
@@ -340,7 +339,7 @@
                                 <li>Hosahalli View Point</li>
 
                             </ul>
-                            <button class="btn_1 outline" data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_1.png">Read More</button>
+                            <button class="btn_1 outline" data-fslightbox="gallery_1" data-type="image" >Read More</button>
                         </div>
                     </a>
                 </div>
@@ -350,7 +349,7 @@
                         <figure><img src="img/photos/waterfall.png" alt="" class="img-fluid"></figure>
                         <div class="wrapper">
                             <h2>Waterfalls</h2>
-                            <p>Some of the famous waterfalls are </p>
+                            <p>Some of the famous waterfalls in Sakleshpur are </p>
                             <ul class="placeslist">
                                 <li>Mookana Mane Abbi Falls</li>
                                 <li>Manjehalli Falls</li>
@@ -360,7 +359,7 @@
                                 <li>Hemavathi backwaters Yethinahole Falls</li>
 
                             </ul>
-                            <button class="btn_1 outline" data-fslightbox="gallery_1" data-type="image" href="img/gallery/m_gal_1.png">Read More</button>
+                            <button class="btn_1 outline" data-fslightbox="gallery_1" data-type="image" >Read More</button>
                         </div>
                     </a>
                 </div>
@@ -508,7 +507,7 @@
                         <div class="item">
                             <a href="mookana-booking.php#deluxe_room" class="box_cat_rooms">
                                 <figure>
-                                    <div class="background-image" data-background="url(img/photos/cozy-1.png)"></div>
+                                    <div class="background-image" data-background="url(img/photos/cozy-1.webp)"></div>
                                     <div class="info">
                                         <h3>Cozy Room</h3>
                                         <span>Read more</span>
@@ -798,12 +797,7 @@
                                         <li data-cue="slideInUp" data-delay="200" data-show="true" style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 200ms; animation-direction: normal; animation-fill-mode: both;">
                                             <p>Jungle Trekking</p>
                                         </li>
-                                        <li data-cue="slideInUp" data-delay="200" data-show="true" style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 200ms; animation-direction: normal; animation-fill-mode: both;">
-                                            <p>Fishing</p>
-                                        </li>
-                                        <li data-cue="slideInUp" data-delay="200" data-show="true" style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 200ms; animation-direction: normal; animation-fill-mode: both;">
-                                            <p>TT, Chess, Carrom & etc</p>
-                                        </li>
+                                        
                                     </ul>
 
                                 </div>
@@ -818,7 +812,12 @@
                                             <p>Hanging Bridge</p>
                                         </li>
                                         
-
+                                        <li data-cue="slideInUp" data-delay="200" data-show="true" style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 200ms; animation-direction: normal; animation-fill-mode: both;">
+                                            <p>Fishing</p>
+                                        </li>
+                                        <li data-cue="slideInUp" data-delay="200" data-show="true" style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 200ms; animation-direction: normal; animation-fill-mode: both;">
+                                            <p>TT, Chess, Carrom & etc</p>
+                                        </li>
 
                                     </ul>
                                 </div>
@@ -875,9 +874,9 @@
                             <small>Jungle Experience</small>
                             <h2>Mookanana Jungle Resort & Spa</h2>
                         </div>
-                        <p class="text-justify">Discover a unique jungle experience at Mookanana Jungle Resort & Spa, where exceptional meets the beauty of nature.</p>
+                        <p class="text-justify">Discover a unique jungle experience at Mookanana Jungle Resort, where exceptional meets the beauty of nature in Sakleshpur.</p>
                         <p class="phone_element no_borders"><a href="https://maps.app.goo.gl/dErHNyxaeQQfpxxD7"><i class="bi bi-geo-alt"></i><span><em>Address</em>Hongadahalla Hettur Hobli, Sakaleshpur Taluk, Hassan Dist, Karnataka -573134</span></a></p>
-                        <p class="phone_element no_borders"><a href="tel://9916669006"><i class="bi bi-telephone"></i><span><em>Info and bookings</em>+91 9916669006</span></a></p>
+                        <p class="phone_element no_borders"><a href="tel://9916609006"><i class="bi bi-telephone"></i><span><em>Info and bookings</em>+91 9916609006</span></a></p>
                         <p class="text-start mt-3"><a href="mookana-booking.php" class="btn_1 outline">Book Now</a></p>
                     </div>
                 </div>

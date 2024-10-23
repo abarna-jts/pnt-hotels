@@ -51,7 +51,7 @@
 <main>
 
     <div class="hero small-height jarallax" data-jarallax data-speed="0.2">
-        <img class="jarallax-img" src="img/photos/club-banner.png" alt="">
+        <img class="jarallax-img" src="img/photos/club-banner.webp" alt="">
         <div class="wrapper opacity-mask d-flex align-items-center justify-content-center text-center animate_hero" data-opacity-mask="rgba(0, 0, 0, 0.5)">
             <div class="container">
                 <small class="slide-animated one">Nature Impressive Experience</small>
@@ -127,37 +127,37 @@
                 <div data-cues="zoomIn">
                     <div class="owl-carousel owl-theme carousel_item_centered kenburns rounded-img gallery-carousel">
                         <div class="item">
-                            <img src="img/gallery/o_gal_1.png" alt="">
+                            <img src="img/gallery/o_gal_1.webp" alt="">
                         </div>
                         <div class="item">
-                            <img src="img/gallery/o_gal_2.png" alt="">
+                            <img src="img/gallery/o_gal_2.webp" alt="">
                         </div>
                         <div class="item">
-                            <img src="img/gallery/o_gal_3.png" alt="">
+                            <img src="img/gallery/o_gal_3.webp" alt="">
                         </div>
                         <div class="item">
-                            <img src="img/gallery/o_gal_4.png" alt="">
+                            <img src="img/gallery/o_gal_4.webp" alt="">
                         </div>
                         <div class="item">
-                            <img src="img/gallery/o_gal_5.png" alt="">
+                            <img src="img/gallery/o_gal_5.webp" alt="">
                         </div>
                         <div class="item">
-                            <img src="img/gallery/o_gal_6.png" alt="">
+                            <img src="img/gallery/o_gal_6.webp" alt="">
                         </div>
                         <div class="item">
-                            <img src="img/gallery/o_gal_7.png" alt="">
+                            <img src="img/gallery/o_gal_7.webp" alt="">
                         </div>
                         
                     </div>
                 </div>
                 <div class="text-center mt-5">
-                    <a class="btn_1 outline" data-fslightbox="gallery_1" data-type="image" href="img/gallery/o_gal_1.png">FullScreen Gallery</a>
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/o_gal_2.png"></a>
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/o_gal_3.png"></a>
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/o_gal_4.png"></a>
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/o_gal_5.png"></a>
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/o_gal_6.png"></a>
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/o_gal_7.png"></a>
+                    <a class="btn_1 outline" data-fslightbox="gallery_1" data-type="image" href="img/gallery/o_gal_1.webp">FullScreen Gallery</a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/o_gal_2.webp"></a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/o_gal_3.webp"></a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/o_gal_4.webp"></a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/o_gal_5.webp"></a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/o_gal_6.webp"></a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/gallery/o_gal_7.webp"></a>
                     
                 </div>
             </div>
@@ -178,7 +178,7 @@
                     <div class="owl-carousel owl-theme carousel_item_centered kenburns rounded-img">
                         <!-- <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6"> -->
                         <div class="item">
-                            <a href="https://wa.me/919916669006" class="box_cat_rooms">
+                            <a href="https://wa.me/919916609006" class="box_cat_rooms">
                                 <figure>
                                     <div class="background-image" data-background="url(img/photos/club_1.png)"></div>
                                     <div class="info">
@@ -191,9 +191,9 @@
                         <!-- </div>
                             <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6"> -->
                         <div class="item">
-                            <a href="https://wa.me/919916669006" class="box_cat_rooms">
+                            <a href="https://wa.me/919916609006" class="box_cat_rooms">
                                 <figure>
-                                    <div class="background-image" data-background="url(img/photos/club_2.png)"></div>
+                                    <div class="background-image" data-background="url(img/photos/club_2.webp)"></div>
                                     <div class="info">
                                         <h3>Honey Comb</h3>
                                         <span>Read more</span>
@@ -204,9 +204,9 @@
                         <!-- </div>
                             <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6"> -->
                         <div class="item">
-                            <a href="https://wa.me/919916669006" class="box_cat_rooms">
+                            <a href="https://wa.me/919916609006" class="box_cat_rooms">
                                 <figure>
-                                    <div class="background-image" data-background="url(img/photos/club_3.png)"></div>
+                                    <div class="background-image" data-background="url(img/photos/club_3.webp)"></div>
                                     <div class="info">
                                         <h3>Mellow Glory</h3>
                                         <span>Read more</span>
@@ -217,7 +217,7 @@
                         <!-- </div>
                             <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6"> -->
                         <div class="item">
-                            <a href="https://wa.me/919916669006" class="box_cat_rooms">
+                            <a href="https://wa.me/919916609006" class="box_cat_rooms">
                                 <figure>
                                     <div class="background-image" data-background="url(img/photos/club_4.png)"></div>
                                     <div class="info">
@@ -230,9 +230,9 @@
                         <!-- </div>
                             <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6"> -->
                         <div class="item">
-                            <a href="https://wa.me/919916669006" class="box_cat_rooms">
+                            <a href="https://wa.me/919916609006" class="box_cat_rooms">
                                 <figure>
-                                    <div class="background-image" data-background="url(img/photos/club_5.png)"></div>
+                                    <div class="background-image" data-background="url(img/photos/club_5.webp)"></div>
                                     <div class="info">
                                         <h3>Bliss</h3>
                                         <span>Read more</span>
@@ -242,7 +242,7 @@
                         </div>
 
                         <div class="item">
-                            <a href="https://wa.me/919916669006" class="box_cat_rooms">
+                            <a href="https://wa.me/919916609006" class="box_cat_rooms">
                                 <figure>
                                     <div class="background-image" data-background="url(img/photos/club_6.png)"></div>
                                     <div class="info">
@@ -253,9 +253,9 @@
                             </a>
                         </div>
                         <div class="item">
-                            <a href="https://wa.me/919916669006" class="box_cat_rooms">
+                            <a href="https://wa.me/919916609006" class="box_cat_rooms">
                                 <figure>
-                                    <div class="background-image" data-background="url(img/photos/club_7.png)"></div>
+                                    <div class="background-image" data-background="url(img/photos/club_7.webp)"></div>
                                     <div class="info">
                                         <h3>Rukum</h3>
                                         <span>Read more</span>
@@ -432,8 +432,8 @@
                         </div>
                         <p class="text-justify">Discover a unique nature experience at Oxygen Resorts, where exceptional meets the beauty of nature.</p>
                         <p class="phone_element no_borders"><a href="https://maps.app.goo.gl/BH7qt1ETKKExzUFE9"><i class="bi bi-geo-alt"></i><span><em>Address</em>Coonoor Rd, Thalayathimund, Ooty, Tamil Nadu 643001</span></a></p>
-                        <p class="phone_element no_borders"><a href="tel://9916669006"><i class="bi bi-telephone"></i><span><em>Info and bookings</em>9916669006</span></a></p>
-                        <p class="text-start mt-3"><a href="https://wa.me/919916669006" class="btn_1 outline">Book Now</a></p>
+                        <p class="phone_element no_borders"><a href="tel://9916609006"><i class="bi bi-telephone"></i><span><em>Info and bookings</em>9916609006</span></a></p>
+                        <p class="text-start mt-3"><a href="https://wa.me/9916609006" class="btn_1 outline">Book Now</a></p>
                     </div>
                 </div>
                 <div class="col-xl-8">

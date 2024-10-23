@@ -167,7 +167,7 @@
                         <div class="item">
                             <a href="https://api.whatsapp.com/send?phone=%20919916609006&utm_source=Whatsapp&utm_medium=cpc&utm_campaign=WhatsApp_Website_Click%20&text=Hello!%20I%20found%20Your%20Number%20on%20thearaise.com/oxygen-resorts-thekkady.php%20Website.%20Please%20Call%20Me%20Back%20With%20The%20Information" class="box_cat_rooms">
                                 <figure>
-                                    <div class="background-image" data-background="url(img/photos/goa-3.png)"></div>
+                                    <div class="background-image" data-background="url(img/photos/goa-3.webp)"></div>
                                     <div class="info">
                                         <h3>Executive Deluxe Sea View</h3>
                                         <span>Read more</span>
@@ -183,7 +183,7 @@
                         <div class="item">
                             <a href="https://api.whatsapp.com/send?phone=%20919916609006&utm_source=Whatsapp&utm_medium=cpc&utm_campaign=WhatsApp_Website_Click%20&text=Hello!%20I%20found%20Your%20Number%20on%20thearaise.com/oxygen-resorts-thekkady.php%20Website.%20Please%20Call%20Me%20Back%20With%20The%20Information" class="box_cat_rooms">
                                 <figure>
-                                    <div class="background-image" data-background="url(img/photos/goa-4.png)"></div>
+                                    <div class="background-image" data-background="url(img/photos/goa-4.webp)"></div>
                                     <div class="info">
                                         <h3>Family Suit</h3>
                                         <span>Read more</span>
@@ -194,7 +194,7 @@
                         <div class="item">
                             <a href="https://api.whatsapp.com/send?phone=%20919916609006&utm_source=Whatsapp&utm_medium=cpc&utm_campaign=WhatsApp_Website_Click%20&text=Hello!%20I%20found%20Your%20Number%20on%20thearaise.com/oxygen-resorts-thekkady.php%20Website.%20Please%20Call%20Me%20Back%20With%20The%20Information" class="box_cat_rooms">
                                 <figure>
-                                    <div class="background-image" data-background="url(img/photos/goa-5.png)"></div>
+                                    <div class="background-image" data-background="url(img/photos/goa-5.webp)"></div>
                                     <div class="info">
                                         <h3>Deluxe Suit Sea View</h3>
                                         <span>Read more</span>
@@ -444,7 +444,7 @@
             <div class="title" data-cues="slideInUp" data-delay="200">
                 <small>Oxygen Resort Mojirm</small>
                 <h2>Amenities</h2>
-                <div class="row justify-content-between" data-cues="slideInUp" data-delay="500">
+                <div class="row justify-content-start" data-cues="slideInUp" data-delay="500">
                     <div class="col-lg-3 col-md-6">
                         <div class="title">
                             <h3>General</h3>
@@ -455,7 +455,7 @@
                                     <p>Room Service</p>
                                 </li>
                                 <li data-cue="slideInUp" data-delay="300" data-show="true" style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 300ms; animation-direction: normal; animation-fill-mode: both;">
-                                    <p>Non-smoking Rooms</p>
+                                    <p>No-smoking Rooms</p>
                                 </li>
                                 <li data-cue="slideInUp" data-delay="400" data-show="true" style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 400ms; animation-direction: normal; animation-fill-mode: both;">
                                     <p>Family Rooms</p>
@@ -521,12 +521,12 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-5 ">
+                    <div class="col-lg-3 col-md-6">
                         <div class="title">
                             <h3>Activites</h3>
                         </div>
                         <div class="list_display">
-                            <div class="col-lg-7  activities_list">
+                            
                                 <div class="list_ok">
                                     <ul>
                                         <li data-cue="slideInUp" data-delay="200" data-show="true" style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 200ms; animation-direction: normal; animation-fill-mode: both;">
@@ -538,30 +538,18 @@
                                         <li data-cue="slideInUp" data-delay="200" data-show="true" style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 200ms; animation-direction: normal; animation-fill-mode: both;">
                                             <p>TT, Chess, Carrom & etc</p>
                                         </li>
-                                    </ul>
-
-                                </div>
-                            </div>
-                            <div class="col-lg-7 activities_list2">
-                                <div class="list_ok">
-                                    <ul>
                                         <li data-cue="slideInUp" data-delay="200" data-show="true" style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 200ms; animation-direction: normal; animation-fill-mode: both;">
                                             <p>Plantation Walk</p>
                                         </li>
-                                        
-                                        <li data-cue="slideInUp" data-delay="200" data-show="true" style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 200ms; animation-direction: normal; animation-fill-mode: both;">
-                                            <p>Mud Volley Ball</p>
-                                        </li>
-                                        
-                                        
-
                                     </ul>
+
                                 </div>
-                            </div>
+                           
+                            
                         </div>
                     </div>
 
-                    <div class="col-lg-2 col-md-6">
+                    <div class="col-lg-3 col-md-6">
                         <div class="title">
                             <h3>Bathroom</h3>
                         </div>
@@ -612,7 +600,7 @@
                         </div>
                         <p class="text-justify">Discover a model resort experience at Oxygen Resorts, Goa where exceptional meets the beauty of nature.</p>
                         <p class="phone_element no_borders"><a href="https://maps.app.goo.gl/hVwnkjLAhHWHu4589"><i class="bi bi-geo-alt"></i><span><em>Address</em>New Wada, Morjim, Goa-403512</span></a></p>
-                        <p class="phone_element no_borders"><a href="tel://9916669006"><i class="bi bi-telephone"></i><span><em>Info and bookings</em>+91 9916669006</span></a></p>
+                        <p class="phone_element no_borders"><a href="tel://9916609006"><i class="bi bi-telephone"></i><span><em>Info and bookings</em>+91 9916609006</span></a></p>
                         <p class="text-start mt-3"><a href="https://api.whatsapp.com/send?phone=%20919916609006&utm_source=Whatsapp&utm_medium=cpc&utm_campaign=WhatsApp_Website_Click%20&text=Hello!%20I%20found%20Your%20Number%20on%20thearaise.com/oxygen-resorts-thekkady.php%20Website.%20Please%20Call%20Me%20Back%20With%20The%20Information" class="btn_1 outline">Book Now</a></p>
                     </div>
                 </div>

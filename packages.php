@@ -51,9 +51,9 @@
                             <i class="bi bi-telephone" style="    font-size: 22px;padding-right: 9px;"></i>
                             <h4>Telephone</h4>
                         </div>
-                        <div class="call">+ 91 9916669006<br></div>
+                        <div class="call">+ 91 9916609006<br></div>
                         <div class="box_item_footer d-flex align-items-center justify-content-between">
-                            <a href="https://wa.me/919916669006" class="btn_4 learn-more">
+                            <a href="https://wa.me/919916609006" class="btn_4 learn-more">
                                 <span class="circle">
                                     <span class="icon arrow"></span>
                                 </span>
@@ -86,9 +86,9 @@
                                 <i class="bi bi-telephone" style="    font-size: 22px;padding-right: 9px;"></i>
                                 <h4>Telephone</h4>
                             </div>
-                            <div class="call">+ 91 9916669006<br></div>
+                            <div class="call">+ 91 9916609006<br></div>
                                 <div class="box_item_footer d-flex align-items-center justify-content-between">
-                                    <a href="https://wa.me/919916669006" class="btn_4 learn-more">
+                                    <a href="https://wa.me/919916609006" class="btn_4 learn-more">
                                         <span class="circle">
                                             <span class="icon arrow"></span>
                                         </span>
@@ -125,9 +125,9 @@
                             <i class="bi bi-telephone" style="    font-size: 22px;padding-right: 9px;"></i>
                             <h4>Telephone</h4>
                         </div>
-                        <div class="call">+ 91 9916669006<br></div>
+                        <div class="call">+ 91 9916609006<br></div>
                         <div class="box_item_footer d-flex align-items-center justify-content-between">
-                            <a href="https://wa.me/919916669006" class="btn_4 learn-more">
+                            <a href="https://wa.me/919916609006" class="btn_4 learn-more">
                                 <span class="circle">
                                     <span class="icon arrow"></span>
                                 </span>
@@ -162,9 +162,9 @@
                                 <i class="bi bi-telephone" style="    font-size: 22px;padding-right: 9px;"></i>
                                 <h4>Telephone</h4>
                             </div>
-                            <div class="call">+ 91 9916669006<br></div>
+                            <div class="call">+ 91 9916609006<br></div>
                                 <div class="box_item_footer d-flex align-items-center justify-content-between">
-                                    <a href="https://wa.me/919916669006" class="btn_4 learn-more">
+                                    <a href="https://wa.me/919916609006" class="btn_4 learn-more">
                                         <span class="circle">
                                             <span class="icon arrow"></span>
                                         </span>
@@ -201,9 +201,9 @@
                             <i class="bi bi-telephone" style="    font-size: 22px;padding-right: 9px;"></i>
                             <h4>Telephone</h4>
                         </div>
-                        <div class="call">+ 91 9916669006<br></div>
+                        <div class="call">+ 91 9916609006<br></div>
                         <div class="box_item_footer d-flex align-items-center justify-content-between">
-                            <a href="https://wa.me/919916669006" class="btn_4 learn-more">
+                            <a href="https://wa.me/919916609006" class="btn_4 learn-more">
                                 <span class="circle">
                                     <span class="icon arrow"></span>
                                 </span>
@@ -236,9 +236,9 @@
                             <i class="bi bi-telephone" style="    font-size: 22px;padding-right: 9px;"></i>
                             <h4>Telephone</h4>
                         </div>
-                        <div class="call">+ 91 9916669006<br></div>
+                        <div class="call">+ 91 9916609006<br></div>
                         <div class="box_item_footer d-flex align-items-center justify-content-between">
-                            <a href="https://wa.me/919916669006" class="btn_4 learn-more">
+                            <a href="https://wa.me/919916609006" class="btn_4 learn-more">
                                 <span class="circle">
                                     <span class="icon arrow"></span>
                                 </span>
@@ -270,9 +270,9 @@
                                 <i class="bi bi-telephone" style="    font-size: 22px;padding-right: 9px;"></i>
                                 <h4>Telephone</h4>
                             </div>
-                            <div class="call">+ 91 9916669006<br></div>
+                            <div class="call">+ 91 9916609006<br></div>
                                 <div class="box_item_footer d-flex align-items-center justify-content-between">
-                                    <a href="https://wa.me/919916669006" class="btn_4 learn-more">
+                                    <a href="https://wa.me/919916609006" class="btn_4 learn-more">
                                         <span class="circle">
                                             <span class="icon arrow"></span>
                                         </span>
@@ -306,9 +306,9 @@
                                     <i class="bi bi-telephone" style="    font-size: 22px;padding-right: 9px;"></i>
                                     <h4>Telephone</h4>
                                 </div> 
-                                <div class="call">+ 91 9916669006<br></div>
+                                <div class="call">+ 91 9916609006<br></div>
                             <div class="box_item_footer d-flex align-items-center justify-content-between">
-                                <a href="https://wa.me/919916669006" class="btn_4 learn-more">
+                                <a href="https://wa.me/919916609006" class="btn_4 learn-more">
                                     <span class="circle">
                                         <span class="icon arrow"></span>
                                     </span> 
